@@ -1,15 +1,15 @@
 ---
 layout: homepage
-title: "Singapore Young Physicists' Tournament "
+title: Singapore Young Physicists' Tournament
 description: Singapore Young Physicists' Tournament, an Isomer site of the
   Singapore Government.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Singapore Young Physicists' Tournament
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: Singapore Young Physicists' Tournament and International YPT
+      subtitle: One of the World's foremost and influential physics competitions
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
