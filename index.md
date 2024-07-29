@@ -18,15 +18,17 @@ sections:
           description: Details of IYPT is here
           url: https://google.com
         - title: Problems
-          description: This is the list of problems.
+          description: This is the list of problems
           url: https://www.iypt.org/problems/problems-iypt-2024/
         - title: Past Winners
           description: SYPT winners detailed here
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
+      title: 2024 IYPT Champion
+      subtitle: Congratulations Team Singapore
+      description: "Congrats: Chee Xin Yi Hilary, Ong Jiunn Xiang, Tan Teng Fong
+        Christopher, Wang Yunze of Raffles Institution, and Xu Kangyou of Hwa
+        Chong Institution"
       button: Button text
       url: /faq/
   - textcards:
