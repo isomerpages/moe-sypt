@@ -29,4 +29,25 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - textcards:
+      title: Physics perspectives to everyday lives
+      id: textcards
+      description: The IYPT problems are deliberately formulated in an open-ended
+        manner, and cannot be solved within a short time using standard methods
+        in pen-and-paper examination setting.
+      cards:
+        - title: Nurturing a Young Physicist
+          description: Students do ressearch and experimentation, culminating in an oral
+            defense
+          linktext: Learn more
+          url: ""
+        - title: Performing Open-ended Scientific Investigations
+          description: Student frames a question to identifying possible solutions for a
+            given problem
+          linktext: Learn more
+          url: ""
+        - title: Engaging in Scientific Debates
+          description: Students respond spontaneously to criticisms and counter-solutions
+          linktext: Learn more
+          url: ""
 ---
