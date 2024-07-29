@@ -17,9 +17,9 @@ sections:
         - title: Highlight A
           description: Important highlight A is important
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: Problems
+          description: This is the list of problems.
+          url: https://www.iypt.org/problems/problems-iypt-2024/
         - title: Page A
           description: Page A is important too
           url: /privacy/
