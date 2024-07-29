@@ -26,9 +26,9 @@ sections:
   - infobar:
       title: 2024 IYPT Champion
       subtitle: Congratulations Team Singapore
-      description: "Congrats: Chee Xin Yi Hilary (leader), Ong Jiunn Xiang, Tan Teng
-        Fong Christopher, Wang Yunze of Raffles Institution, and Xu Kangyou of
-        Hwa Chong Institution"
+      description: "Congrats: Chee Xin Yi Hilary (team lead), Ong Jiunn Xiang, Tan
+        Teng Fong Christopher, Wang Yunze of Raffles Institution, and Xu Kangyou
+        of Hwa Chong Institution"
       button: Button text
       url: /faq/
   - textcards:
