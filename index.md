@@ -14,14 +14,14 @@ sections:
       button: Register here
       url: Register here
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: International YPT
+          description: Details of IYPT is here
           url: https://google.com
         - title: Problems
           description: This is the list of problems.
           url: https://www.iypt.org/problems/problems-iypt-2024/
-        - title: Page A
-          description: Page A is important too
+        - title: Past Winners
+          description: SYPT winners detailed here
           url: /privacy/
   - infobar:
       title: Infobar title
