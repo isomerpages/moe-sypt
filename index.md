@@ -11,7 +11,7 @@ sections:
       title: Singapore Young Physicists' Tournament and International YPT
       subtitle: One of the world's foremost and influential physics competitions
       background: /images/hero-banner.png
-      button: Contact Us
+      button: Register here
       url: Register here
       key_highlights:
         - title: Highlight A
