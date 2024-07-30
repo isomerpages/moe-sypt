@@ -4,21 +4,53 @@ permalink: /past-winners/
 variant: tiptap
 description: ""
 ---
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vitae suscipit
-lacus, ac vehicula mauris. Suspendisse at porta est. Mauris vitae sem non
-est facilisis pulvinar quis vitae risus. Sed eu faucibus nisi. In feugiat
-velit vitae euismod semper. Curabitur eu erat ac metus sagittis fermentum
-vitae a massa. Curabitur dictum efficitur condimentum. Phasellus cursus,
-erat sed vestibulum ultricies, elit urna tincidunt dui, vel elementum lectus
-odio a ante. Nunc aliquet sapien quis efficitur dapibus. Nunc porttitor
-non dolor vel maximus. Morbi augue orci, cursus in hendrerit sit amet,
-mattis sit amet urna. Sed sit amet risus vel nisl cursus blandit. Fusce
-auctor sollicitudin mauris at rutrum. Aliquam imperdiet efficitur dapibus.
-Suspendisse diam mi, tempus ut dictum vitae, condimentum nec turpis. Phasellus
-ante ligula, facilisis ut velit id, maximus maximus velit.</p>
-<p>Ut risus nibh, placerat sed lorem posuere, vulputate pharetra dui. In
-vitae eleifend magna, in venenatis nulla. Nulla facilisi. Ut efficitur
-sapien leo, sit amet egestas nunc faucibus in. Donec vitae ullamcorper
-ante. Maecenas malesuada in dolor at pretium. Aliquam sagittis purus nec
-rhoncus convallis. Nam dolor urna, pharetra at vulputate quis, efficitur
-eu velit.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong><u>Results of 2024 SYPT Cat A</u></strong>
+<br>Gold, Champion - RI Team 1
+<br>Gold - RI Team 2
+<br>Silver –&nbsp; HCI Team 1, NUSH Team 1, NUSH Team 2
+<br>Bronze – HCI Team 2, NJC Team 1, RGS Team 1
+<br>Commendation - NJC Team 2, RVHS Team
+<br>Poster (Distinction) - TJC Team 1
+<br>Poster (Merit) - ACSI Team 1
+<br>Poster (Participation) - ACSI Team 2</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><u>Results of 2024 SYPT Cat B</u>
+<br>Gold, Champion – NUSH Team 2
+<br>Gold - NUSH Team 1
+<br>Silver - HCI Team 2, RGS Team 1, RI Team 1,RI Team 2
+<br>Bronze - HCI Team 1, NYGH Team 1, RVHS Team 1
+<br>Commendation - SNGS Team 2
+<br>Poster (Distinction) - NJC Team 2, NYGH Team 2
+<br>Poster (Merit) - ACSI Team 1, NJC Team 1, SNGS Team 1
+<br>Poster (Participation) - ADSS Team 1, ACSI Team 2,DHS Team 1</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
