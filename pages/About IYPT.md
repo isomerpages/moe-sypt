@@ -4,21 +4,21 @@ permalink: /about-iypt/
 variant: tiptap
 description: ""
 ---
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vitae suscipit
-lacus, ac vehicula mauris. Suspendisse at porta est. Mauris vitae sem non
-est facilisis pulvinar quis vitae risus. Sed eu faucibus nisi. In feugiat
-velit vitae euismod semper. Curabitur eu erat ac metus sagittis fermentum
-vitae a massa. Curabitur dictum efficitur condimentum. Phasellus cursus,
-erat sed vestibulum ultricies, elit urna tincidunt dui, vel elementum lectus
-odio a ante. Nunc aliquet sapien quis efficitur dapibus. Nunc porttitor
-non dolor vel maximus. Morbi augue orci, cursus in hendrerit sit amet,
-mattis sit amet urna. Sed sit amet risus vel nisl cursus blandit. Fusce
-auctor sollicitudin mauris at rutrum. Aliquam imperdiet efficitur dapibus.
-Suspendisse diam mi, tempus ut dictum vitae, condimentum nec turpis. Phasellus
-ante ligula, facilisis ut velit id, maximus maximus velit.</p>
-<p>Ut risus nibh, placerat sed lorem posuere, vulputate pharetra dui. In
-vitae eleifend magna, in venenatis nulla. Nulla facilisi. Ut efficitur
-sapien leo, sit amet egestas nunc faucibus in. Donec vitae ullamcorper
-ante. Maecenas malesuada in dolor at pretium. Aliquam sagittis purus nec
-rhoncus convallis. Nam dolor urna, pharetra at vulputate quis, efficitur
-eu velit.</p>
+<p>Singapore first participated in the <a href="http://iypt.org/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>International Young Physicists’ Tournament (IYPT)</u></a>&nbsp;in
+2009 when it was hosted in Tianjin, China. The Singapore team has been
+performing very well at this annual competition,&nbsp; emerging as champions
+at the following editions: 23rd (Vienna, 2010), &nbsp;26th (Taipei, 2013),
+27th (Shrewbury, United Kingdom, 2014), 28th (Nakhon Ratchasima, Thailand,
+2015), 29th (Ekaterinburg, Russia, 2016), 30th (Singapore, 2017) , 31st
+(Beijing, China 2018) and 32nd (Warsaw, Poland 2019).</p>
+<p>In 2020 and 2021, the Singapore team did not participate in the IYPT due
+to COVID-19 restrictions. However, the Singapore team participated in equivalent
+online tournaments, namely the New Zealand Young Physicists' Tournament
+in 2020 and the Online Young Physicists' Tournament in 2021. They emerged
+as champions in both years.</p>
+<p>2022 was a unique year where Singapore saw an opportunity to provide more
+students the chance to participate in the competition. Two teams were formed,
+one for the 35th (Timisoara, Romania 2022) IYPT and one for the Online
+Young Physicists' Tournament 2022. In both competitions, our teams emerged
+as the first runner up.</p>
+<p>Click here for past achievements of Team Singapore in IYPT</p>
