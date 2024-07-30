@@ -18,7 +18,22 @@ contacts:
   - content:
       - phone: ""
       - email: lawrence_WEE@moe.gov.sg
-      - other: "Team members: Mr LIM Wei Hao, Ms LIN Li & Mr Lawrence WEE"
-    title: General Enquiries & Feedback
+      - other: ""
+    title: Mr Lawrence WEE
+  - content:
+      - phone: ""
+      - email: LIN_Li@moe.gov.sg
+      - other: ""
+    title: Ms LIN Li
+  - content:
+      - phone: ""
+      - email: LIM_Wei_Hao@moe.gov.sg
+      - other: ""
+    title: Mr LIM Wei Hao
+  - content:
+      - phone: ""
+      - email: kelvin_LIN@moe.gov.sg
+      - other: ""
+    title: Mr Kelvin Lin
 feedback: ""
 ---
