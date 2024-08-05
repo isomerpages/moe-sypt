@@ -12,7 +12,7 @@ sections:
       subtitle: One of the world's foremost and influential physics competitions
       background: /images/hero-banner.png
       button: Register here
-      url: Register here
+      url: https://go.gov.sg/sypt2025ebriefing
       key_highlights:
         - title: International YPT
           description: Details of IYPT is here
