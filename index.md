@@ -19,7 +19,7 @@ sections:
           url: https://google.com
         - title: Problems
           description: This is the list of problems
-          url: https://www.iypt.org/problems/problems-iypt-2024/
+          url: https://www.iypt.org/problems/
         - title: Past Winners
           description: SYPT winners detailed here
           url: /privacy/
@@ -50,6 +50,10 @@ sections:
           url: ""
         - title: Engaging in Scientific Debates
           description: Students respond spontaneously to criticisms and counter-solutions
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
           linktext: Learn more
           url: ""
 ---
