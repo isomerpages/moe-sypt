@@ -22,7 +22,7 @@ sections:
           url: https://www.iypt.org/problems/
         - title: Past Winners
           description: SYPT winners detailed here
-          url: /privacy/
+          url: https://iyptsypt.wixsite.com/sypt/pastwinners
   - infobar:
       title: 2024 IYPT Champion
       subtitle: Congratulations Team Singapore
