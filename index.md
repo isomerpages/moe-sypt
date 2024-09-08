@@ -25,7 +25,7 @@ sections:
           description: Shortlisting, Main Fight etc
           url: /sypt-2025-format/
         - title: About IYPT
-          description: Our Participation Details
+          description: Singapore Participation
           url: ""
   - infobar:
       title: 2024 IYPT Champion
