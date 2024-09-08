@@ -20,7 +20,7 @@ sections:
           url: /about-sypt/
         - title: SYPT 2025
           description: Schedule & Problems
-          url: https://iyptsypt.wixsite.com/sypt/pastwinners
+          url: /sypt-2025/
         - title: SYPT 2025 Format
           description: Shortlisting, Main Fight etc
           url: /sypt-2025-format/
