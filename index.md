@@ -5,17 +5,18 @@ description: Singapore Young Physicists' Tournament, an Isomer site of the
   Singapore Government.
 image: /images/SYPT_Temp_Picture.png
 permalink: /
-notification: Singapore Young Physicists' Tournament
+notification: Singapore Young Physicists' Tournament and International Young
+  Physicists' Tournament
 sections:
   - hero:
-      title: Singapore Young Physicists' Tournament and International YPT
+      title: SYPT & IYPT
       subtitle: One of the world's foremost and influential physics competitions
       background: /images/hero-banner.png
       button: Register here
       url: https://go.gov.sg/sypt2025ebriefing
       key_highlights:
-        - title: International YPT
-          description: Details of IYPT is here
+        - title: About SYPT
+          description: Schedule & Problems
           url: https://google.com
         - title: Problems
           description: This is the list of problems
