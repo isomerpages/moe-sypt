@@ -26,7 +26,7 @@ sections:
           url: /sypt-2025-format/
         - title: About IYPT
           description: Singapore Participation
-          url: ""
+          url: /about-iypt/
   - infobar:
       title: 2024 IYPT Champion
       subtitle: Congratulations Team Singapore
