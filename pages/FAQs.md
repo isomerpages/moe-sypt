@@ -134,10 +134,10 @@ twice or oppose twice).
 challenge the reporter team to?
 <br>A: The problems that an opponent cannot challenge will be informed by
 the chief juror in the room. Problems cannot be challenged if</p>
-<p>&nbsp; (a) presented by the opponent earlier</p>
-<p>&nbsp; (b) opposed by the opponent earlier</p>
-<p>&nbsp; (c) presented by the reporter earlier</p>
-<p>&nbsp; (d) rejected by the reporter earlier</p>
+<p>(a) presented by the opponent earlier
+<br>(b) opposed by the opponent earlier
+<br>(c) presented by the reporter earlier
+<br>(d) rejected by the reporter earlier</p>
 <p>There must be at least <u>2 problems</u> left to challenge, otherwise the
 conditions are released in the order a, b, c, d.
 <br>For more information about the main fights, please click <a href="https://iyptsypt.wixsite.com/sypt/sypt-2023-format" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>.</p>
