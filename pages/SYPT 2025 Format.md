@@ -59,5 +59,25 @@ present on the same main problem.</p>
 </p>
 <p>​An email will be sent to all registered teams with further instructions
 and schedule for the shortlisting.</p>
+<h2>Main Fight</h2>
+<p>SYPT 2025 will be held on-site at CHIJ St Nicholas Girl's School for Category
+B and National Junior College for Category A. The dates are:&nbsp;</p>
+<ul>
+<li>
+<p>15 Feb 2025 - Finals: Category B</p>
+</li>
+<li>
+<p>22 Feb 2025&nbsp;- Finals: Category A</p>
+</li>
+</ul>
+<p>As with previous years, teams will still present 2 problems and oppose
+2 problems in the category list. This can include the problems used during
+Shortlisting. Problems will be based on IYPT challenge rules.</p>
+<p>Details on the rules and guidelines for the online event will be updated
+soon.</p>
+<p>The scoring rubric can be found <a href="https://drive.google.com/file/d/10EFThfMyvM0F9-Z1blPLBrAUEk0_vmHe/view?usp=share_link" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>.
+This rubric is adapted from the IYPT rubric.</p>
+<p>It is important to note the requirements for citation of sources used.</p>
+<p>The format for each fight is as follows:&nbsp;</p>
 <p></p>
 <p></p>
