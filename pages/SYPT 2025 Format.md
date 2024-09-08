@@ -95,9 +95,8 @@ This rubric is adapted from the IYPT rubric.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Opponent challenges the Reporter. Reporter team captain accepts or rejects
-the challenge (Only for Main Fights. Mini-fights problems are pre-determined,
-so step not required.)</p>
+<p><strong>Opponent challenges the Reporter. Reporter team captain accepts or rejects the challenge (Only for Main Fights. Mini-fights problems are pre-determined, so step not required.)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -123,71 +122,106 @@ earlier;
 earlier.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>There must be at least 2 problems left to challenge, otherwise the conditions
+are released in the order a, b, c, d.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>The Reporter prepares his/her presentation</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>The Reporter presents the proposed solution to the problem&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>10</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>The Opponent orally questions the Reporter</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>The Opponent prepares his/her presentation</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>The Opponent takes the floor and leads an oral discussion with the Reporter within 5 minute of taking the floor</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>The Opponent takes the floor to summarise the discussion</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Final concluding remarks from the Reporter</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Questions from jurors</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>All jurors write initial comments and scores for Reporter and Opponent</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Open scoring (Head juror requests all jurors to reveal their scores to everyone and request jurors with highest and lowest score to comment)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
 </td>
 </tr>
 </tbody>
