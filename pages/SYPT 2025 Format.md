@@ -226,4 +226,16 @@ are released in the order a, b, c, d.</p>
 </tr>
 </tbody>
 </table>
+<h2>Poster Presentation</h2>
+<p>Teams will prepare a poster on one (1) of the problems from the Category
+list. This can be the same problem that was used for shortlisting.</p>
+<p>On the day of the Finals, teams will present their work to jurors at the
+tournament. Teams are advised that they will be judged on a clear presentation
+that focuses on correct key physics theory that explains the phenomenon.
+This presentation should be about 10 minutes.</p>
+<p>Teams should also be prepared to present their work to their peers attending
+as audience members, or other participants.</p>
+<p>If you wish to attend this event as an audience member, please approach
+your school's teacher-in-charge, if applicable, or send an email to <a href="mailto:LIM_Wei_Hao@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">LIM_Wei_Hao@moe.gov.sg</a> or
+<a href="mailto:kelvin_LIN@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kelvin_LIN@moe.gov.sg</a>.</p>
 <p></p>
