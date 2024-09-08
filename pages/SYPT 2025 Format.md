@@ -79,5 +79,117 @@ soon.</p>
 This rubric is adapted from the IYPT rubric.</p>
 <p>It is important to note the requirements for citation of sources used.</p>
 <p>The format for each fight is as follows:&nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Order of Main Fight (PF)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Reserved Time (min)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Opponent challenges the Reporter. Reporter team captain accepts or rejects
+the challenge (Only for Main Fights. Mini-fights problems are pre-determined,
+so step not required.)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A team may reject the challenge of four different problems without penalty.
+From then on, every subsequent rejection will result in drop of coefficient
+of 0.2 (starting from 3.0).</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The problems that an opponent cannot challenge will be informed by the
+chief juror in the room. Problems cannot be challenged if :
+<br>(a) presented by the opponent earlier;&nbsp;(b) opposed by the opponent
+earlier;
+<br>(c) presented by the reporter earlier;&nbsp;(d) rejected by the reporter
+earlier.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
