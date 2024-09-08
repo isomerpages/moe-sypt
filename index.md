@@ -17,9 +17,9 @@ sections:
       key_highlights:
         - title: About SYPT
           description: Schedule & Problems
-          url: https://google.com
-        - title: Problems
-          description: This is the list of problems
+          url: /about-sypt/
+        - title: SYPT 2025 Format
+          description: Shortlisting, Main Fight etc
           url: https://www.iypt.org/problems/
         - title: Past Winners
           description: SYPT winners detailed here
