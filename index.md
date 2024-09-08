@@ -13,7 +13,7 @@ sections:
       subtitle: One of the world's foremost and influential physics competitions
       background: /images/hero-banner.png
       button: Register here
-      url: https://go.gov.sg/sypt2025ebriefing
+      url: https://go.gov.sg/sypt2025participation
       key_highlights:
         - title: About SYPT
           description: Schedule & Problems
