@@ -21,4 +21,16 @@ students the chance to participate in the competition. Two teams were formed,
 one for the 35th (Timisoara, Romania 2022) IYPT and one for the Online
 Young Physicists' Tournament 2022. In both competitions, our teams emerged
 as the first runner up.</p>
-<p>Click here for past achievements of Team Singapore in IYPT</p>
+<p><strong>Congratulations to Team Singapore!</strong>
+</p>
+<p><strong>2024 IYPT Champion</strong>
+</p>
+<p>Singapore is back at the 37th IYPT, held in Budapest, Hungary. The Singapore
+team emerged as the Champion! Congratulations Team Singapore!</p>
+<p>The Singapore team comprised Chee Xin Yi Hilary (team captain), Ong Jiunn
+Xiang, Tan Teng Fong Christopher and Wang Yunze from Raffles Institution,
+and Xu Kangyou from Hwa Chong Institution. &nbsp;The team was led by A/Prof
+Paul Lee Choon Keat from National Institute of Education, Ms Chan Kwee
+Yong from Raffles Institution, Mr Lim Wei Hao from MOE and coached by Mr
+Matthew Yar Kwok Jway.</p>
+<p></p>
