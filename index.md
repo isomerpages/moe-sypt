@@ -18,12 +18,12 @@ sections:
         - title: About SYPT
           description: Schedule & Problems
           url: /about-sypt/
+        - title: SYPT 2025
+          description: Schedule & Problems
+          url: https://iyptsypt.wixsite.com/sypt/pastwinners
         - title: SYPT 2025 Format
           description: Shortlisting, Main Fight etc
-          url: https://www.iypt.org/problems/
-        - title: Past Winners
-          description: SYPT winners detailed here
-          url: https://iyptsypt.wixsite.com/sypt/pastwinners
+          url: /sypt-2025-format/
   - infobar:
       title: 2024 IYPT Champion
       subtitle: Congratulations Team Singapore
