@@ -28,11 +28,11 @@ sections:
           description: Singapore Participation
           url: /about-iypt/
   - infobar:
-      title: 2024 IYPT Champion
-      subtitle: Congratulations Team Singapore
-      description: "Congrats: Chee Xin Yi Hilary (team lead), Ong Jiunn Xiang, Tan
-        Teng Fong Christopher, Wang Yunze of Raffles Institution, and Xu Kangyou
-        of Hwa Chong Institution"
+      title: SYPT 2025
+      subtitle: SYPT 2025 Information
+      description: The SYPT 2025 e-Briefing was conducted on Saturday 24 Aug 2024. To
+        participate in SYPT 2025, please fill in the participation form by
+        Friday 1 Nov 2024.
       button: Participation Form
       url: https://go.gov.sg/sypt2025participation
   - textcards:
