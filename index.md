@@ -33,8 +33,8 @@ sections:
       description: "Congrats: Chee Xin Yi Hilary (team lead), Ong Jiunn Xiang, Tan
         Teng Fong Christopher, Wang Yunze of Raffles Institution, and Xu Kangyou
         of Hwa Chong Institution"
-      button: Button text
-      url: /faq/
+      button: Participation Form
+      url: https://go.gov.sg/sypt2025participation
   - textcards:
       title: Physics perspectives to everyday lives
       id: textcards
