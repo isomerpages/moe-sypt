@@ -43,7 +43,7 @@ sections:
         in pen-and-paper examination setting.
       cards:
         - title: Nurturing a Young Physicist
-          description: Students do ressearch and experimentation, culminating in an oral
+          description: Students do research and experimentation, culminating in an oral
             defense
           linktext: Learn more
           url: ""
