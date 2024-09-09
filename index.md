@@ -46,14 +46,14 @@ sections:
           description: Students do research and experimentation, culminating in an oral
             defense
           linktext: Learn more
-          url: ""
+          url: /nurturing-a-young-physicist/
         - title: Performing Open-ended Scientific Investigations
           description: Student frames a question to identifying possible solutions for a
             given problem
           linktext: Learn more
-          url: ""
+          url: /performing-open-ended-scientific-investigation/
         - title: Engaging in Scientific Debates
           description: Students respond spontaneously to criticisms and counter-solutions
           linktext: Learn more
-          url: ""
+          url: /engaging-in-scientific-debates/
 ---
