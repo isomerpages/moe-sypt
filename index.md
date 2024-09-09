@@ -56,8 +56,4 @@ sections:
           description: Students respond spontaneously to criticisms and counter-solutions
           linktext: Learn more
           url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
 ---
