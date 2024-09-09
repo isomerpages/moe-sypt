@@ -1,6 +1,6 @@
 title: Singapore Young Physicists' Tournament
 url: https://iyptsypt.moe.edu.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/SYPT_Temp_Picture.png
 colors:
   primary-color: "#6031b6"
   secondary-color: "#4372d6"
@@ -53,7 +53,7 @@ plugins:
 staging: https://staging.d1p6klne4brpfp.amplifyapp.com
 prod: https://master.d1p6klne4brpfp.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/SYPT_Temp_Picture.png
 is_government: true
 google_analytics_ga4: ""
 linkedin-insights: ""

@@ -3,34 +3,38 @@ layout: homepage
 title: Singapore Young Physicists' Tournament
 description: Singapore Young Physicists' Tournament, an Isomer site of the
   Singapore Government.
-image: /images/isomer-logo.svg
+image: /images/SYPT_Temp_Picture.png
 permalink: /
-notification: Singapore Young Physicists' Tournament
+notification: Singapore Young Physicists' Tournament and International Young
+  Physicists' Tournament
 sections:
   - hero:
-      title: Singapore Young Physicists' Tournament and International YPT
+      title: SYPT & IYPT
       subtitle: One of the world's foremost and influential physics competitions
       background: /images/hero-banner.png
-      button: Register here
-      url: https://go.gov.sg/sypt2025ebriefing
+      button: Register for Participation here
+      url: https://go.gov.sg/sypt2025participation
       key_highlights:
-        - title: International YPT
-          description: Details of IYPT is here
-          url: https://google.com
-        - title: Problems
-          description: This is the list of problems
-          url: https://www.iypt.org/problems/
-        - title: Past Winners
-          description: SYPT winners detailed here
-          url: https://iyptsypt.wixsite.com/sypt/pastwinners
+        - title: About SYPT
+          description: Schedule & Problems
+          url: /about-sypt/
+        - title: SYPT 2025
+          description: Schedule & Problems
+          url: /sypt-2025/
+        - title: SYPT 2025 Format
+          description: Shortlisting, Main Fight etc
+          url: /sypt-2025-format/
+        - title: About IYPT
+          description: Singapore Participation
+          url: /about-iypt/
   - infobar:
-      title: 2024 IYPT Champion
-      subtitle: Congratulations Team Singapore
-      description: "Congrats: Chee Xin Yi Hilary (team lead), Ong Jiunn Xiang, Tan
-        Teng Fong Christopher, Wang Yunze of Raffles Institution, and Xu Kangyou
-        of Hwa Chong Institution"
-      button: Button text
-      url: /faq/
+      title: SYPT 2025
+      subtitle: SYPT 2025 Information
+      description: The SYPT 2025 e-Briefing was conducted on Saturday 24 Aug 2024. To
+        participate in SYPT 2025, please fill in the participation form by
+        Friday 1 Nov 2024.
+      button: Participation Form
+      url: https://go.gov.sg/sypt2025participation
   - textcards:
       title: Physics perspectives to everyday lives
       id: textcards
@@ -39,21 +43,17 @@ sections:
         in pen-and-paper examination setting.
       cards:
         - title: Nurturing a Young Physicist
-          description: Students do ressearch and experimentation, culminating in an oral
+          description: Students do research and experimentation, culminating in an oral
             defense
           linktext: Learn more
-          url: ""
+          url: /nurturing-a-young-physicist/
         - title: Performing Open-ended Scientific Investigations
           description: Student frames a question to identifying possible solutions for a
             given problem
           linktext: Learn more
-          url: ""
+          url: /performing-open-ended-scientific-investigation/
         - title: Engaging in Scientific Debates
           description: Students respond spontaneously to criticisms and counter-solutions
           linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+          url: /engaging-in-scientific-debates/
 ---
