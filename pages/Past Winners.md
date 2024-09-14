@@ -124,26 +124,24 @@ Team 2, SNGS Team 2
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><u>Results of 2020 SYPT Cat A</u></strong>
-</p>
-<p>Gold - RI Team 1, HCI Team 1
+<br>Gold - RI Team 1, HCI Team 1
 <br>Silver –&nbsp; NUSH Team 1, NUSH Team 2, RI Team 2
-<br>Bronze – RGS Team 1, HCI Team 2</p>
-<p>Commendation - EJC Team 1</p>
-<p>Poster (Distinction) - RVHS Team 2</p>
-<p>Poster (Merit) - RVHS Team 1</p>
-<p>Poster (Participation) - ACJC Team 1</p>
+<br>Bronze – RGS Team 1, HCI Team 2
+<br>Commendation - EJC Team 1
+<br>Poster (Distinction) - RVHS Team 2
+<br>Poster (Merit) - RVHS Team 1
+<br>Poster (Participation) - ACJC Team 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Results of 2020 SYPT Cat B</u></strong>
-</p>
-<p>Gold, Champion – RGS Team 1</p>
-<p>Gold - RI Team 1</p>
-<p>Silver - RI Team 2, NUSH Team 2, NUSH Team 1</p>
-<p>Bronze - SJI Team 1, RVHS Team 1, SNGS Team 1</p>
-<p>Commendation - VS Team 1, CS Team 1</p>
-<p>Poster (Distinction) - SJI Team 2</p>
-<p>Poster (Merit) - NYGH Team 1, NYGH Team 2, SNGS Team 2</p>
-<p>Poster (Participation) - NASS Team 1, VS Team 2</p>
+<br>Gold, Champion – RGS Team 1
+<br>Gold - RI Team 1
+<br>Silver - RI Team 2, NUSH Team 2, NUSH Team 1
+<br>Bronze - SJI Team 1, RVHS Team 1, SNGS Team 1
+<br>Commendation - VS Team 1, CS Team 1
+<br>Poster (Distinction) - SJI Team 2
+<br>Poster (Merit) - NYGH Team 1, NYGH Team 2, SNGS Team 2
+<br>Poster (Participation) - NASS Team 1, VS Team 2</p>
 </td>
 </tr>
 <tr>
