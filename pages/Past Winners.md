@@ -98,6 +98,39 @@ Team 2, SNGS Team 2
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong><u>Results of 2021 SYPT Cat A</u></strong>
+<br>Gold, Champion - NUSH Team 1
+<br>Gold - RI Team 2
+<br>Silver –&nbsp; RGS Team 1, NUSH Team 2, NJC Team 1
+<br>Bronze – RI Team 1, RVHS Team 1, NYJC Team 1
+<br>Commendation - HCI Team 1, EJC Team 2
+<br>Poster (Distinction) - HCI Team 2
+<br>Poster (Merit) - ASRJC Team 2, RVHS Team 2
+<br>Poster (Participation) - NJC Team 2, ACJC Team 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Results of 2021 SYPT Cat B</u></strong>
+<br>Gold, Champion – RI Team 1
+<br>Gold - RI Team 2
+<br>Silver - NUSH Team 1, HCI Team 1, RGS Team 1
+<br>Bronze - NUSH Team 2, SJI Team 1, HCI Team 2
+<br>Commendation - RVHS Team 2, VS Team 1
+<br>Poster (Distinction) - SJI Team 2, NYGH Team 2
+<br>Poster (Merit) - RVHS Team 1, SNGS Team 1
+<br>Poster (Participation) - NYGH Team 1, VS Team 2, DHS Team 1, SST Team
+2, ZHSS Team 1, SNGS Team 2, YCSS Team 1, SST Team 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
