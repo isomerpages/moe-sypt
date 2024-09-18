@@ -147,35 +147,31 @@ Team 2, SNGS Team 2
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><u>Results of 2019 SYPT Cat A</u></strong>
-</p>
-<p>Gold, Champion – RI Team 2&nbsp;
+<br>Gold, Champion – RI Team 2&nbsp;
 <br>Gold – RI Team 1
 <br>Silver – HCI Team 2, ACJC Team 1, NUSH Team 2
-<br>Bronze – NUSH Team 1, EJC Team 2, NJC Team 1</p>
-<p>Poster (Distinction) - RVHS Team 2</p>
-<p>Poster (Merit) - HCI Team 1, RVHS Team 1</p>
-<p>Poster (Participation) - ACS(I) Team 1, NPS Team 2</p>
+<br>Bronze – NUSH Team 1, EJC Team 2, NJC Team 1
+<br>Poster (Distinction) - RVHS Team 2
+<br>Poster (Merit) - HCI Team 1, RVHS Team 1
+<br>Poster (Participation) - ACS(I) Team 1, NPS Team 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Results of 2019 SYPT Cat B</u></strong>
-</p>
-<p>Gold, Champion – RI Team 2</p>
-<p>Gold - RGS Team 1</p>
-<p>Silver - NUSH Team 1, RI Team 1, NUSH Team 2</p>
-<p>Bronze - NYGH Team 1, NYGH Team 2, VS Team 1</p>
-<p>Commendation - SNGS Team 1, SJI Team 1</p>
-<p>Merit - RVHS Team 2</p>
-<p>Special Mention - SNGS Team 2</p>
-<p>Poster (Distinction) - RVHS Team 1, SJI Team 2</p>
-<p>Poster (Merit) - ACS(I) Team 1, VS Team 2</p>
-<p>Poster (Participation) - PBH Team 1</p>
+<br>Gold, Champion – RI Team 2
+<br>Gold - RGS Team 1
+<br>Silver - NUSH Team 1, RI Team 1, NUSH Team 2
+<br>Bronze - NYGH Team 1, NYGH Team 2, VS Team 1
+<br>Commendation - SNGS Team 1, SJI Team Merit - RVHS Team 2
+<br>Special Mention - SNGS Team 2
+<br>Poster (Distinction) - RVHS Team 1, SJI Team 2
+<br>Poster (Merit) - ACS(I) Team 1, VS Team 2
+<br>Poster (Participation) - PBH Team 1</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><u>Results of 2018 SYPT Cat A</u></strong>
-</p>
-<p>Gold, Champion – RI Team 2
+<br>Gold, Champion – RI Team 2
 <br>Gold – RI Team 1
 <br>Silver – NUSH Team 1, RVHS Team 2, &nbsp;RVHS Team 1
 <br>Bronze – NUSH Team 2, HCI Team 1, EJC
@@ -184,12 +180,12 @@ Team 2, SNGS Team 2
 <td rowspan="1" colspan="1">
 <p><strong><u>Results of 2018 SYPT Cat B</u></strong>
 <br>Gold, Champion – RI Team 1
-<br>Gold – RI Team 2</p>
-<p>Silver – NUSH Team 1, NUSH Team 2, RGS
-<br>Bronze – NYGH Team 1, HCI, SNGS Team 1</p>
-<p>Commendation - SNGS Team 2, FMSS</p>
-<p>Merit – NCHS Team 1, NCHS Team 2</p>
-<p>Special Mention - NYGH Team 2, VS Team 1</p>
+<br>Gold – RI Team 2
+<br>Silver – NUSH Team 1, NUSH Team 2, RGS
+<br>Bronze – NYGH Team 1, HCI, SNGS Team 1
+<br>Commendation - SNGS Team 2, FMSS
+<br>Merit – NCHS Team 1, NCHS Team 2
+<br>Special Mention - NYGH Team 2, VS Team 1</p>
 </td>
 </tr>
 <tr>
@@ -199,15 +195,14 @@ Team 2, SNGS Team 2
 <br>Gold – NUSH Team 1
 <br>Silver – NUSH team 2, RGS Team 2, RI Team 2
 <br>Bronze – RVHS Team 1, ACSI Team 1, EJC (SNGS/CHS)
-<br>Merit – HCI Team 1</p>
-<p>Special Mention – HCI Team 2, RGS Team 1, RVHS</p>
-<p>Team 2</p>
+<br>Merit – HCI Team 1
+<br>Special Mention – HCI Team 2, RGS Team 1, RVHS Team 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Results of 2017 SYPT Cat B</u></strong>
 <br>Gold, Champion – RI Team 1
-<br>Gold – RI Team 2</p>
-<p>Silver – NUSH Team 1, NYGH Team 1, NUSH Team 2
+<br>Gold – RI Team 2
+<br>Silver – NUSH Team 1, NYGH Team 1, NUSH Team 2
 <br>Bronze – VS Team 1, HCI Team 1, SNGS Team 2
 <br>Special Mention – ACSI Team 2, VS Team 2</p>
 </td>
