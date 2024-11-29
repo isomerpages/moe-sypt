@@ -30,11 +30,8 @@ sections:
   - infobar:
       title: SYPT 2025
       subtitle: SYPT 2025 Information
-      description: The SYPT 2025 e-Briefing was conducted on Saturday 24 Aug 2024. To
-        participate in SYPT 2025, please fill in the participation form by
-        Friday 1 Nov 2024.
-      button: Participation Form
-      url: https://go.gov.sg/sypt2025participation
+      description: SYPT 2025 Shortlisting Rounds concluded on 16 and 23 November 2024.
+        Wishing our participants all the best in the SYPT 2025 Finals.
   - textcards:
       title: Physics perspectives to everyday lives
       id: textcards
