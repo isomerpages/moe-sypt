@@ -19,24 +19,24 @@ year to year up to the discretion of the jurors.&nbsp;</p>
 <p><u>Requirements for citation of sources used</u>
 <br>Jurors must be able to clearly distinguish the team's original work&nbsp;from
 the work of others.
-<br>Teams are responsible for making <strong>clear&nbsp;distinctions</strong>&nbsp;between
+<br>Teams are responsible for making clear&nbsp;distinctions&nbsp;between
 their&nbsp;own work and work that has been re-used/ existing research,
-such as by&nbsp;<strong>clearly citing&nbsp;all&nbsp;sources&nbsp;used</strong> during
-the presentation <strong>on the respective&nbsp;slide</strong>. Not doing
-so&nbsp;may result not only in a lower score but potentially also a&nbsp;disciplinary
-procedure in cases that shall be considered as plagiarism.</p>
+such as by&nbsp;clearly citing&nbsp;all&nbsp;sources&nbsp;used during the
+presentation on the respective&nbsp;slide. Not doing so&nbsp;may result
+not only in a lower score but potentially also a&nbsp;disciplinary procedure
+in cases that shall be considered as plagiarism.</p>
 <h2>Shortlisting</h2>
 <p>Shortlisting will be held in person at on&nbsp;16 and 23 Nov 2024 for
 Categories B and A respectively.
 <br>For the shortlisting, teams will prepare a 12 minute presentation comprising:</p>
 <ul>
 <li>
-<p>10 minutes oral presentation (83%) to a panel of jurors on <strong><u>one main problem</u></strong>,
+<p>10 minutes oral presentation to a panel of jurors on one main problem,
 and</p>
 </li>
 <li>
-<p>2 minutes of discussion (17%) &nbsp;on the progress of <strong><u>any 2 other problems</u></strong> in
-the registered Category*.&nbsp;</p>
+<p>2 minutes of discussion on the progress of any 2 other problems in the
+registered category*.&nbsp;</p>
 </li>
 </ul>
 <p>After the presentation, registered teams will participate in a 10-15 min
@@ -48,10 +48,10 @@ Category (click <a href="https://iyptsypt.wixsite.com/sypt/sypt-2023" class="wix
 the list of problems).</p>
 </li>
 <li>
-<p>For schools with more than one team, the&nbsp;<strong>main problem</strong>&nbsp;presented
-by each team&nbsp;<strong><em>MUST&nbsp;</em>be different</strong>. This
-applies across Categories as well, i.e. Cat A and Cat B teams cannot both
-present on the same main problem.</p>
+<p>For schools with more than one team, the&nbsp;main problem&nbsp;presented
+by each team&nbsp;must&nbsp;be different. This applies across Categories
+as well, i.e. Cat A and Cat B teams cannot both present on the same main
+problem.</p>
 </li>
 </ul>
 <p><em>Category A - for participants in JC1 / IP5 / PU1 (or equivalent) and below as of 2024;</em>
@@ -87,7 +87,7 @@ This rubric is adapted from the IYPT rubric.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Order of Main Fight (PF)</p>
+<p>Order of Fight</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Reserved Time (min)</p>
@@ -95,8 +95,8 @@ This rubric is adapted from the IYPT rubric.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Opponent challenges the Reporter. Reporter team captain accepts or rejects the challenge (Only for Main Fights. Mini-fights problems are pre-determined, so step not required.)</strong>
-</p>
+<p>Opponent challenges the Reporter. Reporter team captain accepts or rejects
+the challenge.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -136,8 +136,7 @@ are released in the order a, b, c, d.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>The Reporter prepares his/her presentation</strong>
-</p>
+<p>The Reporter prepares his/her presentation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2</p>
@@ -145,8 +144,7 @@ are released in the order a, b, c, d.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>The Reporter presents the proposed solution to the problem&nbsp;</strong>
-</p>
+<p>The Reporter presents the proposed solution to the problem&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10</p>
@@ -154,8 +152,7 @@ are released in the order a, b, c, d.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>The Opponent orally questions the Reporter</strong>
-</p>
+<p>The Opponent orally questions the Reporter</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2</p>
@@ -163,8 +160,7 @@ are released in the order a, b, c, d.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>The Opponent prepares his/her presentation</strong>
-</p>
+<p>The Opponent prepares his/her presentation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4</p>
@@ -172,8 +168,8 @@ are released in the order a, b, c, d.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>The Opponent takes the floor and leads an oral discussion with the Reporter within 5 minute of taking the floor</strong>
-</p>
+<p>The Opponent takes the floor and leads an oral discussion with the Reporter
+within 5 minute of taking the floor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12</p>
@@ -181,8 +177,7 @@ are released in the order a, b, c, d.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>The Opponent takes the floor to summarise the discussion</strong>
-</p>
+<p>The Opponent takes the floor to summarise the discussion</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1</p>
@@ -190,8 +185,7 @@ are released in the order a, b, c, d.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Final concluding remarks from the Reporter</strong>
-</p>
+<p>Final concluding remarks from the Reporter</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1</p>
@@ -199,8 +193,7 @@ are released in the order a, b, c, d.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Questions from jurors</strong>
-</p>
+<p>Questions from jurors</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10</p>
@@ -208,8 +201,7 @@ are released in the order a, b, c, d.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>All jurors write initial comments and scores for Reporter and Opponent</strong>
-</p>
+<p>All jurors write initial comments and scores for Reporter and Opponent</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5</p>
@@ -217,8 +209,8 @@ are released in the order a, b, c, d.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Open scoring (Head juror requests all jurors to reveal their scores to everyone and request jurors with highest and lowest score to comment)</strong>
-</p>
+<p>Open scoring (Head juror requests all jurors to reveal their scores and
+request jurors to comment)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5</p>
@@ -237,5 +229,5 @@ This presentation should be about 10 minutes.</p>
 as audience members, or other participants.</p>
 <p>If you wish to attend this event as an audience member, please approach
 your school's teacher-in-charge, if applicable, or send an email to <a href="mailto:LIM_Wei_Hao@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">LIM_Wei_Hao@moe.gov.sg</a> or
-<a href="mailto:kelvin_LIN@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kelvin_LIN@moe.gov.sg</a>.</p>
+<a href="mailto:kelvin_LIN@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">LIM_Jun_Li@moe.gov.sg</a>.</p>
 <p></p>
