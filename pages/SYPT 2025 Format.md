@@ -219,8 +219,8 @@ request jurors to comment)</p>
 </tbody>
 </table>
 <h2>Poster Presentation</h2>
-<p>Teams will prepare a poster on one (1) of the problems from the Category
-list. This can be the same problem that was used for shortlisting.</p>
+<p>Teams will prepare a poster on one of the problems from the Category list.
+This can be the same problem that was used for shortlisting.</p>
 <p>On the day of the Finals, teams will present their work to jurors at the
 tournament. Teams are advised that they will be judged on a clear presentation
 that focuses on correct key physics theory that explains the phenomenon.
