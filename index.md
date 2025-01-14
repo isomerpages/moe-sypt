@@ -10,7 +10,7 @@ notification: Singapore Young Physicists' Tournament and International Young
 sections:
   - hero:
       title: SYPT & IYPT
-      subtitle: One of the world's foremost and influential physics competitions
+      subtitle: One of the world's foremost and influential Physics competitions
       background: /images/hero-banner.png
       button: Register for Participation here
       url: https://go.gov.sg/sypt2025participation
