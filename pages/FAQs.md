@@ -138,8 +138,8 @@ the chief juror in the room. Problems cannot be challenged if</p>
 <br>(b) opposed by the opponent earlier
 <br>(c) presented by the reporter earlier
 <br>(d) rejected by the reporter earlier</p>
-<p>There must be at least <u>2 problems</u> left to challenge, otherwise the
-conditions are released in the order a, b, c, d.
+<p>There must be at least 2 problems left to challenge, otherwise the conditions
+are released in the order a, b, c, d.
 <br>For more information about the main fights, please click <a href="https://iyptsypt.wixsite.com/sypt/sypt-2023-format" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>.</p>
 <h2>SYPT- Final Physics Fights</h2>
 <p>Q: What is the Final Physics Fight?
