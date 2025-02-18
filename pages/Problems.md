@@ -4,42 +4,11 @@ permalink: /problems/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Schedule for SYPT 2025</strong></h2>
-<p>SYPT 2025 e-briefing:&nbsp;<a href="https://go.gov.sg/sypt2025ebriefing" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/sypt2025ebriefing</u></a>
-<br>SYPT 2025 interest form:&nbsp;<a href="https://go.gov.sg/sypt2025ebriefing" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/sypt2025interest</u></a>
-<br>SYPT 2025 Participation form: <a href="https://go.gov.sg/sypt2025participation" rel="noopener nofollow" target="_blank">https://go.gov.sg/sypt2025participation</a>
-</p>
-<p><strong>SYPT 2025 e-briefing</strong>
-<br>24 Aug 2024, Sat (9 am - 1 pm)</p>
-<p>​Programme:</p>
-<ul>
-<li>
-<p>Overview of SYPT 2025</p>
-</li>
-<li>
-<p>Sharing of past SYPT experiences</p>
-</li>
-<li>
-<p>Analysis of Category A and B problems (in concurrent sessions)</p>
-</li>
-</ul>
-<p><strong>Important Dates&nbsp;</strong>
-<br>30 Aug 2024 - Interest form deadline (interest to receive materials to
-SYPT 2025 problems)
-<br>1 Nov 2024&nbsp;- Registration form deadline (confirmation of team members)
-<br>16 Nov 2024 - Shortlisting: Category B
-<br>23 Nov 2024 - Shortlisting: Category A
-<br>15 Feb 2025 - Finals: Category B
-<br>22 Feb 2025&nbsp;- Finals: Category A</p>
-<p><em>Category A - for participants in JC1 / IP5 / PU1 (or equivalent) and below as of 2024</em>
-<br><em>Category B - for participants in Sec 3 / IP3 (or equivalent) and below as of 2024</em>
-</p>
-<h2><strong>Problems for the SYPT 2025</strong></h2>
+<h2><strong>SYPT 2025 Problems</strong></h2>
 <p>Approved by the IOC on 18 July 2024
 <br>Please refer to the <a href="https://www.iypt.org/wp-content/uploads/2024/08/Problems-IYPT-2025-signed.pdf" rel="noreferrer noopener" target="_blank"><u>official and signed pdf</u></a> as
 the authoritative source.</p>
-<p><strong><u>Category A</u></strong>
-</p>
+<h4>Category A</h4>
 <p><strong>A1. Invent Yourself: Paper Boomerang</strong>
 <br>Make a returning boomerang from a sheet of paper by folding and/or cutting.
 Investigate how its motion depends on relevant parameters.</p>
@@ -79,8 +48,8 @@ moving. Explain and investigate the phenomenon.</p>
 light may have a higher or lower wavelength than the incident light. Explain
 the phenomenon and determine what can be concluded about the molecular
 structure of the material from the wavelength shift.</p>
-<p><strong><u>Category B</u></strong>
-<br><strong>B1. Invent Yourself: Paper Boomerang</strong>
+<h4>Category B</h4>
+<p><strong>B1. Invent Yourself: Paper Boomerang</strong>
 <br>Make a returning boomerang from a sheet of paper by folding and/or cutting.
 Investigate how its motion depends on relevant parameters.</p>
 <p><strong>B2. Air Muscle</strong>
@@ -121,19 +90,30 @@ that one end dips below water once per revolution, while the other end
 (at the center of the spiral) is connected to a vertical tube. When rotated,
 it can be used to pump water to a great height. Explain this phenomenon
 and investigate how relevant parameters affect the pumping height.</p>
-<h4><strong>Some general tips for the problems:</strong></h4>
+<p></p>
+<h4><strong>General tips for the problems</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
 <p>Model the theories mathematically beyond qualitative observations, predict
-and tally predictions with observations.
-<br>Check the source of information/equations for accuracy to ensure the accuracy
+and tally predictions with observations.</p>
+</li>
+<li>
+<p>Check the source of information/equations for accuracy to ensure the accuracy
 of basic concepts e.g. direction of refracted rays, use of appropriate
-equations
-<br>Appropriate fitting of line e.g. checking the physical appropriateness
+equations.</p>
+</li>
+<li>
+<p>Appropriate fitting of line e.g. checking the physical appropriateness
 of &nbsp;y-intercept. A line fit may only be useful if there is a comparison
 with a mathematical model. Otherwise, observing a general trend of the
-data points may be sufficient.
-<br>Use experimental data to verify if theory is valid instead of relating
+data points may be sufficient.</p>
+</li>
+<li>
+<p>Use experimental data to verify if theory is valid instead of relating
 different parameters without further investigation into the related physical
 insights</p>
+</li>
+</ul>
 <p>Reference:
 <br><a href="https://www.iypt.org/problems/" rel="noopener noreferrer nofollow" target="_blank">Problems | International Young Physicists’ Tournament (iypt.org)</a>
 </p>
