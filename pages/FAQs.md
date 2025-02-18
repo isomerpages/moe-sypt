@@ -106,7 +106,7 @@ the floor)</p>
 (5 mins)</p>
 </li>
 <li>
-<p>Open scoring (Chief juror requests all jurors to reveal their scores to
+<p>Open scoring (Head juror requests all jurors to reveal their scores to
 everyone and request jurors with highest and lowest score to comment) (5
 min)</p>
 <p></p>
@@ -127,8 +127,8 @@ work on more problems.</p>
 <br>A: Each member in the team can only report/oppose twice out of the four
 PFs (i.e.&nbsp;report once&nbsp;and oppose once, report twice or oppose
 twice).</p>
-<p>Q: As opponent team in Main Fight, what are the problems that we can't
-challenge the reporter team to?
+<p>Q: As opponent team in PF, what are the problems that we can't challenge
+the reporter team to?
 <br>A: The problems that an opponent cannot challenge will be informed by
 the chief juror in the room. Problems cannot be challenged if</p>
 <p>(a) presented by the opponent earlier,
