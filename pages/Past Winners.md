@@ -38,12 +38,12 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>Gold, Champion – RI Team 2
 <br>Gold - RGS Team 1
-<br>Silver - HCI Team 2, RGS Team 1, RI Team 1, RI Team 2
-<br>Bronze - HCI Team 1, NYGH Team 1, RVHS Team 1
-<br>Commendation - SNGS Team 2
-<br>Poster (Distinction) - NJC Team 2, NYGH Team 2&nbsp;
-<br>Poster (Merit) - ACSI Team 1, NJC Team 1, SNGS Team 1
-<br>Poster (Participation) - ADSS Team 1, ACSI Team 2, DHS Team 1</p>
+<br>Silver - HCI Team 1, NUSH Team 2, RI Team 1
+<br>Bronze - HCI Team 2, NUSH Team 1, RVHS Team 1
+<br>Poster (Distinction) - NYGH Team 1, RVHS Team 2, SNGS Team 1&nbsp;
+<br>Poster (Merit) - BMSS Team 1, NJC Team 2, SNGS Team 2, VS Team 1
+<br>Poster (Participation) - HYSS Team 1, NJC Team 1, NYGH Team 2, VS Team
+1</p>
 </td>
 </tr>
 <tr>
