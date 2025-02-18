@@ -14,19 +14,6 @@ sections:
       background: /images/hero-banner.png
       button: Register for Participation here [closed]
       url: https://go.gov.sg/sypt2025participation
-      key_highlights:
-        - title: About SYPT
-          description: ""
-          url: /about-sypt/
-        - title: SYPT FORMAT
-          description: ""
-          url: /sypt-2025/
-        - title: SYPT PROBLEMS
-          description: ""
-          url: /sypt-2025-format/
-        - title: About IYPT
-          description: ""
-          url: /about-iypt/
   - announcements:
       title: Announcements
       id: announcements
