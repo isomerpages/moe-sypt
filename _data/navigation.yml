@@ -1,8 +1,6 @@
 logo: /images/SYPT_Temp_Picture.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: About SYPT
+  - title: ABOUT SYPT
     url: /about-sypt/
   - title: SYPT PROBLEMS
     url: /sypt-2025/
@@ -10,7 +8,9 @@ links:
     url: /sypt-2025-format/
   - title: SYPT TIMELINE
     url: /permalink
-  - title: About IYPT
-    url: /sg-iypt-journey/
+  - title: ABOUT IYPT
+    url: /about-iypt/
   - title: FAQs
     url: /faqs/
+  - title: CONTACT US
+    url: /contact-us/
