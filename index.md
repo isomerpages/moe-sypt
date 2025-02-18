@@ -32,20 +32,13 @@ sections:
       subtitle: Information
       description: "SYPT 2025 Shortlisting concluded on November 2024.  SYPT 2025
         Finals: 15 Feb 2025 (Cat B) 22 Feb 2025 (Cat A)"
-  - textcards:
-      title: Physics perspectives to everyday lives
-      id: textcards
-      description: The IYPT problems are formulated in an open-ended manner and cannot
-        be solved within a short time using standard methods in pen-and-paper
-        examination setting.
-      cards:
-        - title: Performing Open-ended Scientific Investigations
-          description: Student frames a question to identifying possible solutions for a
-            given problem
-          linktext: Learn more
-          url: /performing-open-ended-scientific-investigation/
-        - title: Engaging in Scientific Debates
-          description: Students respond spontaneously to criticisms and counter-solutions
-          linktext: Learn more
-          url: /engaging-in-scientific-debates/
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: New Announcement
+          date: 18 February 2025
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
 ---
