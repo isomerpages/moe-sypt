@@ -4,12 +4,13 @@ permalink: /timeline/
 variant: tiptap
 description: ""
 ---
-<h2><strong>SYPT Forms &amp; Timeline</strong></h2>
+<h2>SYPT Forms &amp; Timeline</h2>
+<h3>Forms</h3>
 <p>E-briefing Form:&nbsp;<a href="https://go.gov.sg/sypt2025ebriefing" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/sypt2025ebriefing</u></a>
 <br>Interest Form:&nbsp;<a href="https://go.gov.sg/sypt2025ebriefing" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/sypt2025interest</u></a>
 <br>Participation Form: <a href="https://go.gov.sg/sypt2025participation" rel="noopener nofollow" target="_blank">https://go.gov.sg/sypt2025participation</a>
 </p>
-<h4>Important Dates&nbsp;</h4>
+<h3>Dates&nbsp;</h3>
 <p>24 Aug 2024 - E-briefing for interested schools
 <br>30 Aug 2024 - Interest form deadline (interest to receive materials to
 SYPT 2025 problems)
