@@ -4,7 +4,7 @@ permalink: /problems/
 variant: tiptap
 description: ""
 ---
-<h2><strong>SYPT 2025 Problems</strong></h2>
+<h2><strong>SYPT Problems</strong></h2>
 <p>Approved by the IOC on 18 July 2024
 <br>Please refer to the <a href="https://www.iypt.org/wp-content/uploads/2024/08/Problems-IYPT-2025-signed.pdf" rel="noreferrer noopener" target="_blank"><u>official and signed pdf</u></a> as
 the authoritative source.</p>
