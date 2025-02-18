@@ -4,11 +4,11 @@ permalink: /problems/
 variant: tiptap
 description: ""
 ---
-<h2><strong>SYPT Problems</strong></h2>
-<p>Approved by the IOC on 18 July 2024
+<h2>SYPT Problems</h2>
+<p>Approved by the IOC on 18 July 2024.
 <br>Please refer to the <a href="https://www.iypt.org/wp-content/uploads/2024/08/Problems-IYPT-2025-signed.pdf" rel="noreferrer noopener" target="_blank"><u>official and signed pdf</u></a> as
 the authoritative source.</p>
-<h4>Category A</h4>
+<h3>Category A</h3>
 <p><strong>A1. Invent Yourself: Paper Boomerang</strong>
 <br>Make a returning boomerang from a sheet of paper by folding and/or cutting.
 Investigate how its motion depends on relevant parameters.</p>
@@ -48,7 +48,7 @@ moving. Explain and investigate the phenomenon.</p>
 light may have a higher or lower wavelength than the incident light. Explain
 the phenomenon and determine what can be concluded about the molecular
 structure of the material from the wavelength shift.</p>
-<h4>Category B</h4>
+<h3>Category B</h3>
 <p><strong>B1. Invent Yourself: Paper Boomerang</strong>
 <br>Make a returning boomerang from a sheet of paper by folding and/or cutting.
 Investigate how its motion depends on relevant parameters.</p>
@@ -90,8 +90,7 @@ that one end dips below water once per revolution, while the other end
 (at the center of the spiral) is connected to a vertical tube. When rotated,
 it can be used to pump water to a great height. Explain this phenomenon
 and investigate how relevant parameters affect the pumping height.</p>
-<p></p>
-<h4><strong>General tips for the problems</strong></h4>
+<h3>General Tips</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Model the theories mathematically beyond qualitative observations, predict
