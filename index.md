@@ -30,15 +30,17 @@ sections:
   - infobar:
       title: SYPT 2025
       subtitle: Information
-      description: "SYPT 2025 Shortlisting concluded on November 2024.  SYPT 2025
-        Finals: 15 Feb 2025 (Cat B) 22 Feb 2025 (Cat A)"
+      description: SYPT 2025 Shortlisting concluded on November 2024.  SYPT 2025
+        Finals will be held on 15 Feb 2025 (Cat B) and 22 Feb 2025 (Cat A)
   - announcements:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: New Announcement
-          date: 18 February 2025
-          announcement: Announcement content
+        - title: SYPT FINALS
+          date: 01 January 2025
+          announcement: SYPT Cat B will be held at CHIJ St Nicholas Girls' School on 15
+            Feb 2025 and SYPT Cat A will be held at National Junior College on
+            22 Feb 2025
           link_text: ""
           link_url: ""
 ---
