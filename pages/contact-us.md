@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: MOE SYPT/IYPT Team
+agency_name: MOE SYPT Team
 locations:
   - address:
       - 1 North Buona Vista Drive
@@ -17,23 +17,13 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: lawrence_WEE@moe.gov.sg
-      - other: ""
-    title: Mr Lawrence WEE
-  - content:
-      - phone: ""
-      - email: LIN_Li@moe.gov.sg
-      - other: ""
-    title: Ms LIN Li
-  - content:
-      - phone: ""
       - email: LIM_Wei_Hao@moe.gov.sg
-      - other: ""
+      - other: MOE HQ
     title: Mr LIM Wei Hao
   - content:
       - phone: ""
-      - email: kelvin_LIN@moe.gov.sg
-      - other: ""
-    title: Mr Kelvin Lin
+      - email: LIM_Jun_Li@moe.gov.sg
+      - other: MOE HQ
+    title: Mr LIM Jun Li
 feedback: ""
 ---

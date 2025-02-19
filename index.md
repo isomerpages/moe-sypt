@@ -5,52 +5,37 @@ description: Singapore Young Physicists' Tournament, an Isomer site of the
   Singapore Government.
 image: /images/SYPT_Temp_Picture.png
 permalink: /
-notification: Singapore Young Physicists' Tournament and International Young
-  Physicists' Tournament
+notification: ""
 sections:
   - hero:
-      title: SYPT & IYPT
-      subtitle: One of the world's foremost and influential physics competitions
+      title: SYPT
+      subtitle: Singapore Young Physicists' Tournament - one of the world's foremost
+        and influential Physics competitions
       background: /images/hero-banner.png
-      button: Register for Participation here
+      button: Register for Participation here [closed]
       url: https://go.gov.sg/sypt2025participation
-      key_highlights:
-        - title: About SYPT
-          description: Schedule & Problems
-          url: /about-sypt/
-        - title: SYPT 2025
-          description: Schedule & Problems
-          url: /sypt-2025/
-        - title: SYPT 2025 Format
-          description: Shortlisting, Main Fight etc
-          url: /sypt-2025-format/
-        - title: About IYPT
-          description: Singapore Participation
-          url: /about-iypt/
-  - infobar:
-      title: SYPT 2025
-      subtitle: SYPT 2025 Information
-      description: SYPT 2025 Shortlisting Rounds concluded on 16 and 23 November 2024.
-        Wishing our participants all the best in the SYPT 2025 Finals.
-  - textcards:
-      title: Physics perspectives to everyday lives
-      id: textcards
-      description: The IYPT problems are deliberately formulated in an open-ended
-        manner, and cannot be solved within a short time using standard methods
-        in pen-and-paper examination setting.
-      cards:
-        - title: Nurturing a Young Physicist
-          description: Students do research and experimentation, culminating in an oral
-            defense
-          linktext: Learn more
-          url: /nurturing-a-young-physicist/
-        - title: Performing Open-ended Scientific Investigations
-          description: Student frames a question to identifying possible solutions for a
-            given problem
-          linktext: Learn more
-          url: /performing-open-ended-scientific-investigation/
-        - title: Engaging in Scientific Debates
-          description: Students respond spontaneously to criticisms and counter-solutions
-          linktext: Learn more
-          url: /engaging-in-scientific-debates/
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: SYPT Finals
+          date: 01 January 2025
+          announcement: SYPT Cat B will be held at CHIJ St Nicholas Girls' School on 15
+            Feb 2025 and SYPT Cat A will be held at National Junior College on
+            22 Feb 2025.
+          link_text: ""
+          link_url: ""
+        - title: SYPT Shortlisting
+          date: 04 October 2024
+          announcement: SYPT Cat B Shortlisting will be held at on 16 Nov 2024 and SYPT
+            Cat A will be held on 23 Nov 2024. Both Shortlisting rounds will be
+            held at NUS.
+          link_text: ""
+          link_url: ""
+        - title: SYPT E-briefing
+          date: 01 August 2024
+          announcement: SYPT E-briefing will be held on 24 Aug 2024 online from 8.45am to
+            1.00pm.
+          link_text: ""
+          link_url: ""
 ---
