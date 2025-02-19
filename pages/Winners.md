@@ -43,7 +43,7 @@ description: ""
 <br>Poster (Distinction) - NYGH Team 1, RVHS Team 2, SNGS Team 1&nbsp;
 <br>Poster (Merit) - BMSS Team 1, NJC Team 2, SNGS Team 2, VS Team 1
 <br>Poster (Participation) - HYSS Team 1, NJC Team 1, NYGH Team 2, VS Team
-1</p>
+2</p>
 </td>
 </tr>
 <tr>
