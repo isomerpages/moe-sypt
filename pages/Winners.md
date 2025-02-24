@@ -33,7 +33,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Gold, Champion – RI Team 1
+<br>Gold - RI Team 2
+<br>Silver - HCI Team 1, NUSH Team 1, NUSH Team 2
+<br>Bronze - HCI Team 2, RGS Team 1, SNGS Team 1
+<br>Poster (Distinction) - ACJC Team 2&nbsp;
+<br>Poster (Merit) - ACJC Team 1
+<br>Poster (Participation) - ACS(I) Team 2, RVHS Team 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gold, Champion – RI Team 2
@@ -43,7 +49,7 @@ description: ""
 <br>Poster (Distinction) - NYGH Team 1, RVHS Team 2, SNGS Team 1&nbsp;
 <br>Poster (Merit) - BMSS Team 1, NJC Team 2, SNGS Team 2, VS Team 1
 <br>Poster (Participation) - HYSS Team 1, NJC Team 1, NYGH Team 2, VS Team
-1</p>
+2</p>
 </td>
 </tr>
 <tr>
