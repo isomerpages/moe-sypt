@@ -7,6 +7,34 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IYPT_Logo.png">
 </div>
+<h1><strong>What is IYPT?</strong></h1>
+<p></p>
+<p><strong>The International Young Physicists’ Tournament (IYPT)</strong>,
+sometimes referred to as the “Physics World Cup”, is a scientific competition
+between teams of secondary school students. It mimics, as close as possible,
+the real-world scientific research and the process of presenting and defending
+the results obtained.</p>
+<p>Participants have almost a year to work on 17 open-ended inquiry problems.
+A good part of the problems involves easy-to-reproduce phenomena presenting
+unexpected behaviour.</p>
+<p>The aim of the solutions is not to calculate or reach “the correct answer”
+as there is no such notion here. The Tournament is rather conclusions-oriented
+as participants have to design and perform experiments, and to draw conclusions
+argued from the experiments’ outcome.</p>
+<p>The competition itself is not a pen-and-paper competition but an enactment
+of a scientific discussion (or a defence of a thesis) where participants
+take the roles of Reporter, Opponent and Reviewer and are evaluated by
+an international Jury.</p>
+<p>The beauty of the Tournament is that teams can take quite different routes
+to tackle the same problem. As long as they stay within the broadly defined
+statement of the problem, all routes are legitimate and teams will be judged
+according to the depths reached by their investigations.</p>
+<p>In 2013, IYPT was awarded the medal of the&nbsp;International&nbsp;Union
+of Pure and Applied Physics&nbsp;(IUPAP)&nbsp;in&nbsp;recognition of its
+inspiring and wide-ranging contribution to physics education that has touched
+many lives and countries, over the past 25 years.</p>
+<p></p>
+<h2><strong>Singapore's performance in IYPT</strong></h2>
 <p>Singapore first participated in the <a href="http://iypt.org/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>International Young Physicists’ Tournament (IYPT)</u></a>&nbsp;in
 2009 when it was hosted in Tianjin, China. The Singapore team has been
 performing very well at this annual competition,&nbsp;emerging as champions
