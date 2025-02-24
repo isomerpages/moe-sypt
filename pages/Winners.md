@@ -33,13 +33,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gold, Champion - RI Team 1</p>
-<p>Gold - RI Team 2</p>
-<p>Silver - HCI Team 1, NUSH Team 1, NUSH Team 2</p>
-<p>Bronze - HCI Team 2, RGS Team 1, SNGS Team 1</p>
-<p>Poster (Distinction) - ACJC Team 2</p>
-<p>Poster (Merit) - ACJC Team 1</p>
-<p>Poster (Participation) - ACS(I) Team 2, RVHS Team 1</p>
+<p>Gold, Champion – RI Team 1
+<br>Gold - RI Team 2
+<br>Silver - HCI Team 1, NUSH Team 1, NUSH Team 2
+<br>Bronze - HCI Team 2, RGS Team 1, SNGS Team 1
+<br>Poster (Distinction) - ACJC Team 2&nbsp;
+<br>Poster (Merit) - ACJC Team 1
+<br>Poster (Participation) - ACS(I) Team 2, RVHS Team 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gold, Champion – RI Team 2
