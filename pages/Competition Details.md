@@ -341,14 +341,8 @@ during the Q&amp;A etc. will be disqualified.</p>
 </details>
 </div>
 <p>Please click the buttons below to find out specific details of the respective
-category.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Cat_A_Button.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Cat_B_Button.jpg">
-</div>
+category.</p><a class="isomer-image-wrapper" href="/category-a-details/"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Cat_A_Button.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/category-b-details/"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Cat_B_Button.jpg"></a>
 <h1>Category A</h1>
 <h4>Admin Instructions</h4>
 <p>Please refer to this <a href="https://drive.google.com/file/d/1epEp5eNRnQs30Yz6B0x6DD4TV9EdPuBI/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a> for
