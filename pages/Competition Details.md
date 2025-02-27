@@ -9,7 +9,7 @@ description: ""
 <p>Please refer to this <a href="https://drive.google.com/file/d/1epEp5eNRnQs30Yz6B0x6DD4TV9EdPuBI/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a> for
 the Admin Instructions.</p>
 <p></p>
-<h4>Juror Schedule:</h4>
+<h4>Juror Schedule</h4>
 <p>(<em>updated as of 22 February, 2025</em>)</p>
 <table style="minWidth: 150px">
 <colgroup>
@@ -725,7 +725,7 @@ the Admin Instructions.</p>
 </tbody>
 </table>
 <p></p>
-<p>Juror Assignment List</p>
+<h4>Juror Assignment List</h4>
 <p>(<em>updated as of 22 February, 2025</em>)</p>
 <table style="minWidth: 225px">
 <colgroup>
@@ -783,19 +783,19 @@ the Admin Instructions.</p>
 <p>RI2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yeo Ye (Head)</p>
+<p>Yeo Ye</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Khan (Head)</p>
+<p>Lim Khan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kendrick Wong (Ind)</p>
+<p>Kendrick Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ng Tiong Eng (NUSH)</p>
+<p>Ng Tiong Eng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Poh Boon Hor (NUSH)</p>
+<p>Poh Boon Hor</p>
 </td>
 </tr>
 <tr>
@@ -809,19 +809,19 @@ the Admin Instructions.</p>
 <p>NUSH1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ronald Chan (Head)</p>
+<p>Ronald Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wee Wei Hsiung (Head)</p>
+<p>Wee Wei Hsiung</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Xuancong (Ind)</p>
+<p>Wang Xuancong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yang Kian Hong (RGS)</p>
+<p>Yang Kian Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chan Kwee Yong (RI)</p>
+<p>Chan Kwee Yong</p>
 </td>
 </tr>
 <tr>
@@ -835,19 +835,19 @@ the Admin Instructions.</p>
 <p>NUSH2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paul Lee Choon Keat (Head)</p>
+<p>Paul Lee Choon Keat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lawrence Wee (Ind)</p>
+<p>Lawrence Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ching Chee Leong (Ind)</p>
+<p>Ching Chee Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Soh Wei Kuan (RI)</p>
+<p>Soh Wei Kuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Zshen Chou Caleb (HCI)</p>
+<p>Lee Zshen Chou Caleb</p>
 </td>
 </tr>
 <tr>
@@ -861,19 +861,19 @@ the Admin Instructions.</p>
 <p>HCI1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Koh Teck Seng (Head)</p>
+<p>Koh Teck Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Leong-Chuan Kwek (Ind)</p>
+<p>Leong-Chuan Kwek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Kin Seng (Ind)</p>
+<p>Tan Kin Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yuen Xiang Hao (NUSH)</p>
+<p>Yuen Xiang Hao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Guangquan (EJC)</p>
+<p>Wang Guangquan</p>
 </td>
 </tr>
 <tr>
@@ -919,19 +919,19 @@ the Admin Instructions.</p>
 <p>HCI1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wee Wei Hsiung (Head)</p>
+<p>Wee Wei Hsiung</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kendrick Wong (Ind)</p>
+<p>Kendrick Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wong Yi Ren (Ind)</p>
+<p>Wong Yi Ren</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Soh Wei Kuan (RI)</p>
+<p>Soh Wei Kuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yang Kian Hong (RGS)</p>
+<p>Yang Kian Hong</p>
 </td>
 </tr>
 <tr>
@@ -945,19 +945,19 @@ the Admin Instructions.</p>
 <p>HCI2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yeo Ye (Head)</p>
+<p>Yeo Ye</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Zhen Wah (Ind)</p>
+<p>Tan Zhen Wah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ching Chee Leong (Ind)</p>
+<p>Ching Chee Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Guangquan (EJC)</p>
+<p>Wang Guangquan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yuen Xiang Hao (NUSH)</p>
+<p>Yuen Xiang Hao</p>
 </td>
 </tr>
 <tr>
@@ -971,19 +971,19 @@ the Admin Instructions.</p>
 <p>SNGS1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ronald Chan (Head)</p>
+<p>Ronald Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Koh Teck Seng (Head)</p>
+<p>Koh Teck Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paul Lee Choon Keat (Head)</p>
+<p>Paul Lee Choon Keat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sze Guan Kheng (RI)</p>
+<p>Sze Guan Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Lih Juinn (HCI)</p>
+<p>Lee Lih Juinn</p>
 </td>
 </tr>
 <tr>
@@ -997,19 +997,19 @@ the Admin Instructions.</p>
 <p>RI1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Leong-Chuan Kwek (Head)</p>
+<p>Leong-Chuan Kwek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Silas Yeem (Ind)</p>
+<p>Silas Yeem</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Kin Seng (Ind)</p>
+<p>Tan Kin Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Zshen Chou Caleb (HCI)</p>
+<p>Lee Zshen Chou Caleb</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Poh Boon Hor (NUSH)</p>
+<p>Poh Boon Hor</p>
 </td>
 </tr>
 <tr>
@@ -1055,19 +1055,19 @@ the Admin Instructions.</p>
 <p>RI2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Koh Teck Seng (Head)</p>
+<p>Koh Teck Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Kin Seng (Ind)</p>
+<p>Tan Kin Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Zhen Wah (Ind)</p>
+<p>Tan Zhen Wah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ng Tiong Eng (NUSH)</p>
+<p>Ng Tiong Eng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Poh Boon Hor (NUSH)</p>
+<p>Poh Boon Hor</p>
 </td>
 </tr>
 <tr>
@@ -1081,19 +1081,19 @@ the Admin Instructions.</p>
 <p>HCI2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yeo Ye (Head)</p>
+<p>Yeo Ye</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lawrence Wee (Ind)</p>
+<p>Lawrence Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Xuancong (Ind)</p>
+<p>Wang Xuancong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Guangquan (EJC)</p>
+<p>Wang Guangquan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sze Guan Kheng (RI)</p>
+<p>Sze Guan Kheng</p>
 </td>
 </tr>
 <tr>
@@ -1107,19 +1107,19 @@ the Admin Instructions.</p>
 <p>SNGS1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wee Wei Hsiung (Head)</p>
+<p>Wee Wei Hsiung</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Silas Yeem (Ind)</p>
+<p>Silas Yeem</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gregory Ngirmang (Ind)</p>
+<p>Gregory Ngirmang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yuen Xiang Hao (NUSH)</p>
+<p>Yuen Xiang Hao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Zshen Chou Caleb (HCI)</p>
+<p>Lee Zshen Chou Caleb</p>
 </td>
 </tr>
 <tr>
@@ -1133,19 +1133,19 @@ the Admin Instructions.</p>
 <p>RGS1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ronald Chan (Head)</p>
+<p>Ronald Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Khan (Head)</p>
+<p>Lim Khan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kendrick Wong (Ind)</p>
+<p>Kendrick Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Lih Juinn (HCI)</p>
+<p>Lee Lih Juinn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chan Kwee Yong (RI)</p>
+<p>Chan Kwee Yong</p>
 </td>
 </tr>
 <tr>
@@ -1191,19 +1191,19 @@ the Admin Instructions.</p>
 <p>RGS1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paul Lee Choon Keat (Head)</p>
+<p>Paul Lee Choon Keat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wong Yi Ren (Ind)</p>
+<p>Wong Yi Ren</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ching Chee Leong (Ind)</p>
+<p>Ching Chee Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Alvin Low (HCI)</p>
+<p>Alvin Low</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Poh Boon Hor (NUSH)</p>
+<p>Poh Boon Hor</p>
 </td>
 </tr>
 <tr>
@@ -1217,19 +1217,19 @@ the Admin Instructions.</p>
 <p>NUSH2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Khan (Head)</p>
+<p>Lim Khan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gregory Ngirmang (Ind)</p>
+<p>Gregory Ngirmang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lawrence Wee (Ind)</p>
+<p>Lawrence Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Weng Seng (RI)</p>
+<p>Tan Weng Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Soh Wei Kuan (RI)</p>
+<p>Soh Wei Kuan</p>
 </td>
 </tr>
 <tr>
@@ -1243,19 +1243,19 @@ the Admin Instructions.</p>
 <p>NUSH1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wee Wei Hsiung (Head)</p>
+<p>Wee Wei Hsiung</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yeo Ye (Head)</p>
+<p>Yeo Ye</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Xuancong (Ind)</p>
+<p>Wang Xuancong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chan Kwee Yong (RI)</p>
+<p>Chan Kwee Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sze Guan Kheng (RI)</p>
+<p>Sze Guan Khen</p>
 </td>
 </tr>
 <tr>
@@ -1269,19 +1269,19 @@ the Admin Instructions.</p>
 <p>RI1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Koh Teck Seng (Head)</p>
+<p>Koh Teck Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Silas Yeem (Ind)</p>
+<p>Silas Yeem</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Leong-Chuan Kwek (Head)</p>
+<p>Leong-Chuan Kwek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ng Tiong Eng (NUSH)</p>
+<p>Ng Tiong Eng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yang Kian Hong (RGS)</p>
+<p>Yang Kian Hong</p>
 </td>
 </tr>
 </tbody>
@@ -1292,7 +1292,7 @@ the Admin Instructions.</p>
 <p>Please refer to this <a href="https://drive.google.com/file/d/1xq-3KRgsyuCfDfCULVDb41R3-XghNue1/view?usp=drive_link" rel="noopener nofollow" target="_blank">link</a> for
 the Admin Instructions.</p>
 <p></p>
-<h4>Juror Schedule:</h4>
+<h4>Juror Schedule</h4>
 <p>(<em>updated as of 15 February, 2025</em>)</p>
 <table style="minWidth: 150px">
 <colgroup>
@@ -2127,7 +2127,7 @@ the Admin Instructions.</p>
 </tr>
 </tbody>
 </table>
-<p>Juror Assignment List</p>
+<h4>Juror Assignment List</h4>
 <p>(<em>updated as of 15 February, 2025</em>)</p>
 <table style="minWidth: 225px">
 <colgroup>
