@@ -5,14 +5,14 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>NATIONAL JUNIOR COLLEGE (CAT A)</strong></h4>
-<p><strong>CAMPUS LAYOUT AND MAP</strong>
-</p>
+<h4>CAMPUS LAYOUT AND MAP</h4>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="491" width="679" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdgTZAtAsgRoVRcz0KMVNw7NpniJqwkwTpLzd1NPNUxilIYNcRz1gPshGthg107N7b3fHnpP9cfcCtJJSoipRxH_P3ao1PG1DqpKF4_w7er0Ne_YqVDRmoVaqKIKPvAoY8jdVN83_Pay3w3oxcwqQo?key=--N09Ipa7FmkGCDHctzGtIXA">
 </div>
-<p></p>
-<p><strong>SCHEDULE: CAT <u>A</u> PHYSICS FIGHT &amp; VENUES</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="332" width="679" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcIj4bNheTEyASAeJpMHvpQkMntpjGDc4ED7aFV_o6So0B6IxiFoWaZQD2yEpvlFWtwfE-lkXK1XjVjy7vhf7h3i38HYO65Kyu7k43JE52MStcEtCxcuLeOIGjJtLYMpZfCSRJK_H_TiGaLvQKtIiw?key=--N09Ipa7FmkGCDHctzGtIXA">
+</div>
+<h4>SCHEDULE: CAT <u>A</u> PHYSICS FIGHT &amp; VENUES</h4>
 <table style="minWidth: 175px">
 <colgroup>
 <col>
@@ -228,11 +228,7 @@ description: ""
 </table>
 <p><strong>R – </strong>reporting</p>
 <p><strong>O – </strong>opposing</p>
-<h4><strong>SCHEDULE: CAT <u>A</u> POSTER PRESENTATIONS&nbsp;</strong></h4>
-<p>
-<br>
-<br>
-</p>
+<h4>SCHEDULE: CAT <u>A</u> POSTER PRESENTATIONS<strong>&nbsp;</strong><br></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
