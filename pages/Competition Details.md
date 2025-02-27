@@ -340,7 +340,8 @@ during the Q&amp;A etc. will be disqualified.</p>
 </div>
 </details>
 </div>
-<p>Please click on the</p>
+<p>Please click the buttons below to find out specific details of the respective
+category.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Cat_A_Button.jpg">
 </div>
