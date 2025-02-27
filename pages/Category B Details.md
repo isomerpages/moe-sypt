@@ -388,3 +388,8 @@ description: ""
 </tbody>
 </table>
 <p></p>
+<h4>Admin Instructions</h4>
+<p>Please refer to this <a href="https://drive.google.com/file/d/1xq-3KRgsyuCfDfCULVDb41R3-XghNue1/view?usp=drive_link" rel="noopener nofollow" target="_blank">link</a> for
+the Admin Instructions.</p>
+<p></p>
+<p></p>
