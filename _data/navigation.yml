@@ -18,3 +18,10 @@ links:
     url: /faqs/
   - title: CONTACT US
     url: /contact-us/
+  - title: Competition Details
+    url: /competition-details/
+    sublinks:
+      - title: Category A
+        url: /CatA
+      - title: Category B
+        url: /CatB
