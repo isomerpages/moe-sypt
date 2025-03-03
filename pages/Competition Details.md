@@ -242,7 +242,7 @@ poster presentations.&nbsp;</p>
 <p></p>
 </li>
 <li>
-<p>Fight format can be found on the SYPT website <a href="https://safe.menlosecurity.com/https://iyptsypt.wixsite.com/sypt/sypt-2025-format" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>
+<p>Fight format can be found on the SYPT website <a href="https://iyptsypt.moe.edu.sg/format/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>
 </p>
 <p></p>
 </li>
@@ -285,7 +285,7 @@ final PF.</p>
 <p></p>
 </li>
 <li>
-<p>Presentation format can be found on the SYPT website <a href="https://safe.menlosecurity.com/https://iyptsypt.wixsite.com/sypt/sypt-2025-format" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p>Presentation format can be found on the SYPT website <a href="https://iyptsypt.moe.edu.sg/format/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <p></p>
 </li>
 <li>
