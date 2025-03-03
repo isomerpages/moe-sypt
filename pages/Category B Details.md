@@ -4,8 +4,8 @@ permalink: /category-b-details/
 variant: tiptap
 description: ""
 ---
-<h4><strong>CHIJ ST NICHOLAS GIRLS’S SCHOOL (CAT B)</strong></h4>
-<h4><strong>CAMPUS MAP AND LAYOUT</strong></h4>
+<h2><strong>CHIJ St. Nicholas Girls' School (Cat B)</strong></h2>
+<h4>Campus Layout and Map</h4>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="391" width="679" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcnvGohnYAko0Bmn69s8maU_smqnr8_3V0RRICu-u1ZOI8aXm0c3W4OXXPguTkijz2R36of9bkxfUNqPhwOJHWyjf1ZTy5pKv118iGzK8UY1PZPlmRjfaOlp68O6Y_9AqGsaUMkoOSxe85H5cfd4rU?key=--N09Ipa7FmkGCDHctzGtIXA">
 </div>
@@ -13,7 +13,7 @@ description: ""
 <img style="margin-left:0px;margin-top:0px;" height="383" width="679" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe4Fp0RgeMAqlah2nTzHGiPPfZbJG1p_ysIchIz0g3LeF9xgD9Ns7ZsHCWCMTQmpTvFacCkB0VKMQ4DFHE0rHD8NjW5crJQZTbapsYAbCZjw3tsdSZJV1PLjRUaoUoRMwqlA03RfVjCFFw2d9EPUgc?key=--N09Ipa7FmkGCDHctzGtIXA">
 </div>
 <p></p>
-<h4><strong>SCHEDULE: CAT <u>B</u> PHYSICS FIGHT AND VENUES</strong><br><br></h4>
+<h4>Schedule: Cat B Physics Fight and Venues</h4>
 <table style="minWidth: 175px">
 <colgroup>
 <col>
@@ -227,11 +227,8 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong>R – </strong>reporting</p>
-<p><strong>O – </strong>opposing</p>
-<p></p>
-<h4><strong>SCHEDULE: CAT <u>B</u> POSTER PRESENTATIONS&nbsp;</strong></h4>
-<p></p>
+<p><strong>R – </strong>reporting; <strong>O – </strong>opposing</p>
+<h4>Schedule: Cat B Poster Presentations</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -387,7 +384,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4>Admin Instructions</h4>
 <p>Please refer to this <a href="https://drive.google.com/file/d/1xq-3KRgsyuCfDfCULVDb41R3-XghNue1/view?usp=drive_link" rel="noopener nofollow" target="_blank">link</a> for
 the Admin Instructions.</p>
