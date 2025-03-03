@@ -217,45 +217,35 @@ description: ""
 </p>
 <p><em>^Refer to Campus Layout for the respective Category.</em>
 </p>
-<h2>INSTRUCTIONS FOR PHYSICS FIGHT PARTICIPANTS</h2>
+<h4>Instructions for Physics Fight Participants</h4>
 <p></p>
 <ol>
 <li>
 <p>Reporting venue for all participants is the <u>school hall at SNGS or atrium at NJC</u> by
 the main entrance. All participants are expected to be seated by 7.40 AM.</p>
-</li>
-</ol>
 <p></p>
-<ol start="2">
+</li>
 <li>
 <p>Participants are advised to pre-load their slides prior to their fight
 to minimise delay.&nbsp;</p>
-</li>
-</ol>
 <p></p>
-<ol start="3">
+</li>
 <li>
 <p>While the venue does provide connecting cables to its projector, it is
 advisable to bring along your own HDMI adapter/cable for contingency purposes.
 There is no wireless connection to the projector.</p>
-</li>
-</ol>
 <p></p>
-<ol start="4">
+</li>
 <li>
 <p>Participants and audience are allowed to view other fights or visit the
 poster presentations.&nbsp;</p>
-</li>
-</ol>
 <p></p>
-<ol start="5">
+</li>
 <li>
 <p>Fight format can be found on the SYPT website <a href="https://safe.menlosecurity.com/https://iyptsypt.wixsite.com/sypt/sypt-2025-format" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>
 </p>
-</li>
-</ol>
 <p></p>
-<ol start="6">
+</li>
 <li>
 <p>Teams are reminded to follow strictly to the guidelines and conduct themselves
 with integrity and respect towards the other team. Teams found to have
@@ -266,51 +256,38 @@ disqualified.
 </p>
 </li>
 </ol>
-<h2>INSTRUCTIONS FOR POSTER PARTICIPANTS</h2>
-<p></p>
+<h4>Instructions for Poster Participants</h4>
 <ol>
 <li>
 <p>Reporting venue for all participants is the <u>school hall at SNGS or atrium at NJC</u> by
 the main entrance. All participants are expected to be seated by 7.40 AM.</p>
-</li>
-</ol>
 <p></p>
-<ol start="2">
+</li>
 <li>
 <p>Participants are to set up their poster presentation by 9.00 AM.</p>
-</li>
-</ol>
 <p></p>
-<ol start="3">
+</li>
 <li>
 <p>Teams should also be prepared to present their work to their peers attending
 as audience members, or other participants. Do introduce your school and
 team number during your presentation for the audience to take note of your
 team.</p>
-</li>
-</ol>
 <p></p>
-<ol start="4">
+</li>
 <li>
 <p>Teams should present for about 8 mins and allow for Q&amp;A for about
 2 mins.</p>
-</li>
-</ol>
 <p></p>
-<ol start="5">
+</li>
 <li>
 <p>At the end of the poster judging, you may join as an audience for the
 final PF.</p>
-</li>
-</ol>
 <p></p>
-<ol start="6">
+</li>
 <li>
 <p>Presentation format can be found on the SYPT website <a href="https://safe.menlosecurity.com/https://iyptsypt.wixsite.com/sypt/sypt-2025-format" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-</li>
-</ol>
 <p></p>
-<ol start="7">
+</li>
 <li>
 <p>The format will be similar to shortlisting. Teams are reminded to follow
 strictly to the guidelines and conduct themselves with integrity during
@@ -320,27 +297,5 @@ during the Q&amp;A etc. will be disqualified.</p>
 </li>
 </ol>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Category A Campus Map and Layout</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p><strong>NATIONAL JUNIOR COLLEGE</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="491" width="679" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdgTZAtAsgRoVRcz0KMVNw7NpniJqwkwTpLzd1NPNUxilIYNcRz1gPshGthg107N7b3fHnpP9cfcCtJJSoipRxH_P3ao1PG1DqpKF4_w7er0Ne_YqVDRmoVaqKIKPvAoY8jdVN83_Pay3w3oxcwqQo?key=--N09Ipa7FmkGCDHctzGtIXA">
-</div>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>NATIONAL JUNIOR COLLEGE</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p>Please click the buttons below to find out specific details of the respective
-category.</p><a class="isomer-image-wrapper" href="/category-a-details/"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Cat_A_Button.jpg"></a>
-<p></p><a class="isomer-image-wrapper" href="/category-b-details/"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Cat_B_Button.jpg"></a>
 <p></p>
