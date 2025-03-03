@@ -4,7 +4,7 @@ permalink: /format/
 variant: tiptap
 description: ""
 ---
-<h1>SYPT Format</h1>
+<h1>Overview</h1>
 <p>Two main stages -
 <br>Stage 1: Shortlisting
 <br>Stage 2: Physics Fight/Poster Presentation</p>
