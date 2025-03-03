@@ -4,7 +4,7 @@ permalink: /cat-a/
 variant: tiptap
 description: ""
 ---
-<h2><strong>National Junior College (Cat A)</strong></h2>
+<h1>National Junior College (Cat A)</h1>
 <h4>Campus Layout and Map</h4>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="491" width="679" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdgTZAtAsgRoVRcz0KMVNw7NpniJqwkwTpLzd1NPNUxilIYNcRz1gPshGthg107N7b3fHnpP9cfcCtJJSoipRxH_P3ao1PG1DqpKF4_w7er0Ne_YqVDRmoVaqKIKPvAoY8jdVN83_Pay3w3oxcwqQo?key=--N09Ipa7FmkGCDHctzGtIXA">
@@ -227,7 +227,7 @@ description: ""
 </tbody>
 </table>
 <p><strong>R – </strong>reporting; <strong>O – </strong>opposing</p>
-<h4>Schedule: Cat A Poster Presentation<br></h4>
+<h4>Schedule: Cat A Poster Presentation</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -328,7 +328,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4>Admin Instructions</h4>
 <p>Please refer to this <a href="https://drive.google.com/file/d/1epEp5eNRnQs30Yz6B0x6DD4TV9EdPuBI/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a> for
 the Admin Instructions.</p>

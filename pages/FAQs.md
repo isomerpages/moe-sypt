@@ -4,8 +4,8 @@ permalink: /faqs/
 variant: tiptap
 description: ""
 ---
-<h1><strong>Frequently Asked Questions</strong></h1>
-<h2>Registration</h2>
+<h1>Frequently Asked Questions</h1>
+<h4>Registration</h4>
 <p>Q: What constitutes a team for the competition?
 <br>A: Each team should consist of at least two students and two teachers-in-charge.
 A typical team comprises three students.</p>
@@ -28,7 +28,7 @@ A.</p>
 <p>Q: How many teams can each school register?
 <br>A: Each school can send in a maximum of 2 teams. IP schools with 6-year
 programmes can send 2 teams per category.&nbsp;</p>
-<h2>​Working on problems</h2>
+<h4>​Working on problems</h4>
 <p>Q: My school does not have high-end equipment capable of generating highly
 precise data. In that case, will my team be disadvantaged in the experimentation
 stage?
@@ -40,7 +40,7 @@ theory to explain my team's experimental observations.
 how the team conceptualise the experiment, understand the physics behind
 it and model the phenomena observed. It will suffice if the team is able
 to apply simple theory to explain the observations.</p>
-<h2>Shortlisting</h2>
+<h4>Shortlisting</h4>
 <p>Q: Does the whole team have to be present during shortlisting?
 <br>A: Preferably, but if it is not possible, then at least one student member
 needs to be around for shortlisting.</p>
@@ -58,16 +58,7 @@ Top eight teams will be shortlisted to participate in the Physics Fights
 at the SYPT Finals based on juror recommendation. The remaining teams will
 participate in the Poster Presentation. Schools will be notified within
 a week after shortlisting.</p>
-<h2>SYPT Finals</h2>
-<p>Q: In the event that a registered participant is not able to attend the
-finals, can the school send a replacement?
-<br>A: Schools must inform the MOE CPDD officers of any changes to the team
-members after the stipulated deadline. The replacement can only be made
-after approval is given by MOE and the YPT committee. Note that only the
-participants present on the day of the finals will be presented with awards.
-Schools should be fair to the students who are shortlisted and only send
-replacements if the students shortlisted are unable to attend the finals.</p>
-<h2>SYPT Physics Fight</h2>
+<h4>SYPT Physics Fight</h4>
 <p>Q: What is the format of the Physics Fight (PF) at the SYPT Finals?
 <br>A: Each PF will follow the following format:</p>
 <ul>
@@ -137,7 +128,7 @@ the chief juror in the room. Problems cannot be challenged if</p>
 <br>(d) rejected by the reporter earlier</p>
 <p>There must be at least 2 problems left to challenge, otherwise the conditions
 are released in the order a, b, c, d.</p>
-<h2>SYPT Final Fight</h2>
+<h4>SYPT Final Fight</h4>
 <p>Q: What is the Final Fight?
 <br>A: The two teams with the highest total score in the PF will take part
 in the Final Fight.</p>
@@ -148,5 +139,12 @@ both teams must choose their problems to report. The team with the highest
 score will choose 1 problem and decide the order of reporting. The team
 with the 2nd highest score will choose 2 problems in order of preference
 (They will present their 2nd choice if the problem is the same as the opponent).</p>
-<p>​</p>
+<p>​Q: In the event that a registered participant is not able to attend the
+finals, can the school send a replacement?
+<br>A: Schools must inform the MOE CPDD officers of any changes to the team
+members after the stipulated deadline. The replacement can only be made
+after approval is given by MOE and the YPT committee. Note that only the
+participants present on the day of the finals will be presented with awards.
+Schools should be fair to the students who are shortlisted and only send
+replacements if the students shortlisted are unable to attend the finals.</p>
 <p></p>

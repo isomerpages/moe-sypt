@@ -4,10 +4,14 @@ permalink: /format/
 variant: tiptap
 description: ""
 ---
-<h2>SYPT Format</h2>
+<h1>Overview</h1>
 <p>Two main stages -
 <br>Stage 1: Shortlisting
 <br>Stage 2: Physics Fight/Poster Presentation</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Timeline.png">
+</div>
 <p>Since 2019, the Poster Presentation has been included to encourage teams
 to continue working on the problems. Typically, all teams participate in
 shortlisting and only teams that are not shortlisted will participate in
@@ -18,7 +22,7 @@ a shortlisting. Any teams who are not shortlisted are still welcome to
 participate in the Poster Presentation.
 <br>
 </p>
-<h3>Shortlisting</h3>
+<h4>Shortlisting</h4>
 <p>Shortlisting will be held in person at on&nbsp;16 and 23 Nov 2024 for
 Categories B and A respectively.
 <br>For the shortlisting, teams will prepare a 12-minute presentation comprising:</p>
@@ -50,7 +54,7 @@ problem.</p>
 <p><em>Category A - for participants in JC1 / IP5 / PU1 (or equivalent) and below as of 2024;</em>
 <br><em>Category B - for participants in Sec 3 / IP3 (or equivalent) and below as of 2024.</em>
 </p>
-<h3>Physics Fight</h3>
+<h4>Physics Fight</h4>
 <p>SYPT 2025 will be held on-site at CHIJ St Nicholas Girl's School for Category
 B and National Junior College for Category A. The dates are:&nbsp;</p>
 <ul>
@@ -216,7 +220,7 @@ request jurors to comment)</p>
 </tr>
 </tbody>
 </table>
-<h3>Poster Presentation</h3>
+<h4>Poster Presentation</h4>
 <p>Teams will prepare a poster on one of the problems. This can be the same
 problem that was used for shortlisting.</p>
 <p>On the day of the finals, teams will present their work to jurors. Teams

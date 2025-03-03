@@ -4,7 +4,7 @@ permalink: /competition-details/
 variant: tiptap
 description: ""
 ---
-<h1>OVERVIEW</h1>
+<h1>Overview</h1>
 <p>The programme for the finals for both Cat B and A is as follows:</p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -251,9 +251,7 @@ poster presentations.&nbsp;</p>
 with integrity and respect towards the other team. Teams found to have
 forbidden communication, e.g. communication with third parties, including
 teachers and trainers, in any form or medium during the PF etc. will be
-disqualified.
-<br>
-</p>
+disqualified.</p>
 </li>
 </ol>
 <h4>Instructions for Poster Participants</h4>
@@ -296,6 +294,4 @@ with third parties, including teachers and trainers, in any form or medium
 during the Q&amp;A etc. will be disqualified.</p>
 </li>
 </ol>
-<p></p>
-<p></p>
 <p></p>
