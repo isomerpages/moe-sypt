@@ -7,8 +7,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IYPT_Logo.png">
 </div>
-<h1><strong>What is IYPT?</strong></h1>
-<p></p>
+<h1>What is IYPT</h1>
 <p><strong>The International Young Physicists’ Tournament (IYPT)</strong>,
 sometimes referred to as the “Physics World Cup”, is a scientific competition
 between teams of secondary school students. It mimics, as close as possible,
@@ -34,7 +33,7 @@ of Pure and Applied Physics&nbsp;(IUPAP)&nbsp;in&nbsp;recognition of its
 inspiring and wide-ranging contribution to physics education that has touched
 many lives and countries, over the past 25 years.</p>
 <p></p>
-<h2><strong>Singapore's performance in IYPT</strong></h2>
+<h4>Singapore's Performance at IYPT</h4>
 <p>Singapore first participated in the <a href="http://iypt.org/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>International Young Physicists’ Tournament (IYPT)</u></a>&nbsp;in
 2009 when it was hosted in Tianjin, China. The Singapore team has been
 performing very well at this annual competition,&nbsp;emerging as champions
@@ -53,7 +52,7 @@ students the chance to participate in the competition. Two teams were formed,
 one for the 35th (Timisoara, Romania 2022) IYPT and one for the Online
 Young Physicists' Tournament 2022. In both competitions, our teams emerged
 as the first runner up.</p>
-<h3><strong>Congratulations, Team Singapore!</strong></h3>
+<h4>Congratulations, Team Singapore!</h4>
 <p><strong>2024 IYPT Champion</strong>
 </p>
 <p></p>
