@@ -4,7 +4,7 @@ permalink: /cat-a/
 variant: tiptap
 description: ""
 ---
-<h2><strong>National Junior College (Cat A)</strong></h2>
+<h1>National Junior College (Cat A)</h1>
 <h4>Campus Layout and Map</h4>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="491" width="679" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdgTZAtAsgRoVRcz0KMVNw7NpniJqwkwTpLzd1NPNUxilIYNcRz1gPshGthg107N7b3fHnpP9cfcCtJJSoipRxH_P3ao1PG1DqpKF4_w7er0Ne_YqVDRmoVaqKIKPvAoY8jdVN83_Pay3w3oxcwqQo?key=--N09Ipa7FmkGCDHctzGtIXA">
