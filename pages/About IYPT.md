@@ -7,7 +7,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IYPT_Logo.png">
 </div>
-<h1>What is IYPT</h1>
+<h1>What is IYPT?</h1>
 <p><strong>The International Young Physicists’ Tournament (IYPT)</strong>,
 sometimes referred to as the “Physics World Cup”, is a scientific competition
 between teams of secondary school students. It mimics, as close as possible,
