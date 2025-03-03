@@ -12,7 +12,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="332" width="679" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcIj4bNheTEyASAeJpMHvpQkMntpjGDc4ED7aFV_o6So0B6IxiFoWaZQD2yEpvlFWtwfE-lkXK1XjVjy7vhf7h3i38HYO65Kyu7k43JE52MStcEtCxcuLeOIGjJtLYMpZfCSRJK_H_TiGaLvQKtIiw?key=--N09Ipa7FmkGCDHctzGtIXA">
 </div>
-<h4>Schedule:  Cat A Physics Fight and Venues</h4>
+<h4>Schedule: Cat A Physics Fight and Venues</h4>
 <table style="minWidth: 175px">
 <colgroup>
 <col>
@@ -226,8 +226,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong>R – </strong>reporting</p>
-<p><strong>O – </strong>opposing</p>
+<p><strong>R – </strong>reporting; <strong>O – </strong>opposing</p>
 <h4>Schedule: Cat A Poster Presentation<br></h4>
 <table style="minWidth: 75px">
 <colgroup>
