@@ -4,7 +4,7 @@ permalink: /about-sypt/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Background</strong></h2>
+<h1>Background</h1>
 <p>The Singapore Young Physicists’ Tournament (SYPT) tests participants'
 ability to solve complicated real-world physics problems. In a typical
 Fight, the Reporter has to present their solutions to proposed problems
@@ -30,7 +30,7 @@ the actual process of science investigation, from framing a question to
 identifying possible solutions for a problem.</p>
 <p>The SYPT is a scaled-down and modified version of the IYPT while retaining
 its' problems.</p>
-<h2><strong>Points of note</strong>&nbsp;</h2>
+<h4>Points of note&nbsp;</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>SYPT Categories</strong>
