@@ -12,9 +12,9 @@ links:
     url: /competition-details/
     sublinks:
       - title: Category A
-        url: /CatA
+        url: /category-a-details/
       - title: Category B
-        url: /CatB
+        url: /category-b-details/
   - title: Winners
     url: /winners/
   - title: About IYPT
