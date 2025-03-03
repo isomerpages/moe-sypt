@@ -227,7 +227,7 @@ description: ""
 </tbody>
 </table>
 <p><strong>R – </strong>reporting; <strong>O – </strong>opposing</p>
-<h4>Schedule: Cat A Poster Presentation<br></h4>
+<h4>Schedule: Cat A Poster Presentation</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -328,7 +328,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4>Admin Instructions</h4>
 <p>Please refer to this <a href="https://drive.google.com/file/d/1epEp5eNRnQs30Yz6B0x6DD4TV9EdPuBI/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a> for
 the Admin Instructions.</p>
