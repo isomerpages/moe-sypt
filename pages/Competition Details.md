@@ -242,11 +242,6 @@ poster presentations.&nbsp;</p>
 <p></p>
 </li>
 <li>
-<p>Fight format can be found on the SYPT website <a href="https://iyptsypt.moe.edu.sg/format/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>
-</p>
-<p></p>
-</li>
-<li>
 <p>Teams are reminded to follow strictly to the guidelines and conduct themselves
 with integrity and respect towards the other team. Teams found to have
 forbidden communication, e.g. communication with third parties, including
@@ -273,17 +268,13 @@ team.</p>
 <p></p>
 </li>
 <li>
-<p>Teams should present for about 8 mins and allow for Q&amp;A for about
-2 mins.</p>
+<p>Teams should present for a maximum of 10 mins and allow for Q&amp;A for
+5 mins.</p>
 <p></p>
 </li>
 <li>
 <p>At the end of the poster judging, you may join as an audience for the
 final PF.</p>
-<p></p>
-</li>
-<li>
-<p>Presentation format can be found on the SYPT website <a href="https://iyptsypt.moe.edu.sg/format/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <p></p>
 </li>
 <li>

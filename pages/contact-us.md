@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: MOE SYPT Team
+agency_name: SYPT Team
 locations:
   - address:
       - 1 North Buona Vista Drive
@@ -17,13 +17,18 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: LIM_Wei_Hao@moe.gov.sg
-      - other: MOE HQ
-    title: Mr LIM Wei Hao
+      - email: CHANG_Sheh_Lit@sp.edu.sg
+      - other: YPT Committee Chairperson
+    title: Dr CHANG Sheh Lit
   - content:
       - phone: ""
       - email: LIM_Jun_Li@moe.gov.sg
       - other: MOE HQ
     title: Mr LIM Jun Li
+  - content:
+      - phone: ""
+      - email: LIM_Wei_Hao@moe.gov.sg
+      - other: MOE HQ
+    title: Mr LIM Wei Hao
 feedback: ""
 ---

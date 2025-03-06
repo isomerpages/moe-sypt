@@ -41,8 +41,7 @@ Q&amp;A session with a panel of jurors regarding their presentation.</p>
 <ul>
 <li>
 <p>The problems may be chosen from any of the SYPT problems in the registered
-Category (click <a href="https://iyptsypt.wixsite.com/sypt/sypt-2023" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>&nbsp;for
-the list of problems).</p>
+Category</p>
 </li>
 <li>
 <p>For schools with more than one team, the&nbsp;main problem&nbsp;presented
