@@ -18,6 +18,13 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: SYPT 2026 Juror Interest Indication
+          date: 11 April 2025
+          announcement: "Join us as an independent juror! If you would like to participate
+            in SYPT 2026 as an independent juror, indicate your interest in this
+            form:"
+          link_text: SYPT Independent Jurors Interest Form
+          link_url: https://go.gov.sg/syptinterestedjurors
         - title: SYPT Finals
           date: 01 January 2025
           announcement: SYPT Cat B will be held at CHIJ St Nicholas Girls' School on 15
