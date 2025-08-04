@@ -8,8 +8,8 @@ links:
     url: /format/
   - title: Forms & Timeline
     url: /timeline/
-  - title: Competition Details
-    url: /competition-details/
+  - title: Competition Booklet
+    url: /competition-booklet/
     sublinks:
       - title: Category A
         url: /cat-a/
@@ -23,3 +23,12 @@ links:
     url: /faqs/
   - title: CONTACT US
     url: /contact-us/
+  - title: Competition Details
+    url: /competition-details/
+    sublinks:
+      - title: Format
+        url: /format/
+      - title: Problems
+        url: /problems/
+      - title: Timer
+        url: /permalink
