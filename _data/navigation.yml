@@ -2,12 +2,17 @@ logo: /images/SYPT_Temp_Picture.png
 links:
   - title: About SYPT
     url: /about-sypt/
-  - title: Problems
-    url: /problems/
-  - title: Format
-    url: /format/
-  - title: SYPT Forms & Timeline
+  - title: SYPT Forms
     url: /timeline/
+  - title: SYPT Details
+    url: /competition-details/
+    sublinks:
+      - title: Problems
+        url: /problems/
+      - title: Format
+        url: /format/
+      - title: Timer
+        url: /timer/
   - title: SYPT Booklet
     url: /booklet/
     sublinks:
@@ -17,15 +22,6 @@ links:
         url: /cat-b/
   - title: Winners
     url: /winners/
-  - title: SYPT Details
-    url: /competition-details/
-    sublinks:
-      - title: Format
-        url: /format/
-      - title: Problems
-        url: /problems/
-      - title: Timer
-        url: /timer/
   - title: About IYPT
     url: /about-iypt/
   - title: FAQs
