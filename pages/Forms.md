@@ -26,7 +26,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SYPT E-briefing</p>
+<p>E-briefing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>30 Aug 2025</p>
@@ -34,7 +34,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SYPT Shortlisting - Cat B</p>
+<p>Shortlisting - Cat B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>15 Nov 2025</p>
@@ -42,7 +42,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SYPT Shortlisting - Cat A</p>
+<p>Shortlisting - Cat A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>22 Nov 2025</p>
@@ -50,7 +50,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SYPT - Cat B</p>
+<p>Finals - Cat B</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7 Feb 2026</p>
@@ -58,7 +58,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SYPT - Cat A</p>
+<p>Finals - Cat A</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>14 Feb 2026</p>
