@@ -1,10 +1,8 @@
 logo: /images/SYPT_Temp_Picture.png
 links:
   - title: About SYPT
-    url: /competition-details/
+    url: /background/
     sublinks:
-      - title: Background
-        url: /background/
       - title: Problems
         url: /problems/
       - title: Format
@@ -13,9 +11,9 @@ links:
         url: /timer/
       - title: Winners
         url: /winners/
-  - title: SYPT Forms
-    url: /timeline/
-  - title: SYPT Booklet
+  - title: Forms
+    url: /forms/
+  - title: Booklet
     url: /booklet/
     sublinks:
       - title: Category A
