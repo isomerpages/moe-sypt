@@ -1,6 +1,6 @@
 ---
-title: Forms & Timeline
-permalink: /timeline/
+title: Forms
+permalink: /forms/
 variant: tiptap
 description: ""
 ---

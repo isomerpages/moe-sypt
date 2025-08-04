@@ -1,6 +1,6 @@
 ---
-title: Competition Details
-permalink: /competition-details/
+title: Booklet
+permalink: /booklet/
 variant: tiptap
 description: ""
 ---

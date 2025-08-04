@@ -1,6 +1,6 @@
 ---
-title: About SYPT
-permalink: /about-sypt/
+title: Background
+permalink: /background/
 variant: tiptap
 description: ""
 ---

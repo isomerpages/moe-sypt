@@ -1,18 +1,19 @@
 ---
-title: Category A Details
-permalink: /cat-a/
+title: Category B
+permalink: /cat-b/
 variant: tiptap
 description: ""
 ---
-<h1>National Junior College (Cat A)</h1>
+<h1>CHIJ St. Nicholas Girls' School (Cat B)</h1>
 <h4>Campus Layout and Map</h4>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="491" width="679" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdgTZAtAsgRoVRcz0KMVNw7NpniJqwkwTpLzd1NPNUxilIYNcRz1gPshGthg107N7b3fHnpP9cfcCtJJSoipRxH_P3ao1PG1DqpKF4_w7er0Ne_YqVDRmoVaqKIKPvAoY8jdVN83_Pay3w3oxcwqQo?key=--N09Ipa7FmkGCDHctzGtIXA">
+<img style="margin-left:0px;margin-top:0px;" height="391" width="679" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcnvGohnYAko0Bmn69s8maU_smqnr8_3V0RRICu-u1ZOI8aXm0c3W4OXXPguTkijz2R36of9bkxfUNqPhwOJHWyjf1ZTy5pKv118iGzK8UY1PZPlmRjfaOlp68O6Y_9AqGsaUMkoOSxe85H5cfd4rU?key=--N09Ipa7FmkGCDHctzGtIXA">
 </div>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="332" width="679" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcIj4bNheTEyASAeJpMHvpQkMntpjGDc4ED7aFV_o6So0B6IxiFoWaZQD2yEpvlFWtwfE-lkXK1XjVjy7vhf7h3i38HYO65Kyu7k43JE52MStcEtCxcuLeOIGjJtLYMpZfCSRJK_H_TiGaLvQKtIiw?key=--N09Ipa7FmkGCDHctzGtIXA">
+<img style="margin-left:0px;margin-top:0px;" height="383" width="679" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe4Fp0RgeMAqlah2nTzHGiPPfZbJG1p_ysIchIz0g3LeF9xgD9Ns7ZsHCWCMTQmpTvFacCkB0VKMQ4DFHE0rHD8NjW5crJQZTbapsYAbCZjw3tsdSZJV1PLjRUaoUoRMwqlA03RfVjCFFw2d9EPUgc?key=--N09Ipa7FmkGCDHctzGtIXA">
 </div>
-<h4>Schedule: Cat A Physics Fight and Venues</h4>
+<p></p>
+<h4>Schedule: Cat B Physics Fight and Venues</h4>
 <table style="minWidth: 175px">
 <colgroup>
 <col>
@@ -26,8 +27,8 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="2" colspan="3">
-<p>&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><strong>&nbsp;&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="4">
 <p><strong>Venue</strong>
@@ -65,13 +66,13 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SNGS1</p>
+<p>RI2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HCI2</p>
+<p>NUSH1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RGS1</p>
+<p>RVHS1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>RI1</p>
@@ -83,16 +84,16 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RI2</p>
+<p>HCI1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NUSH1</p>
+<p>RGS1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NUSH2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HCI1</p>
+<p>HCI2</p>
 </td>
 </tr>
 <tr>
@@ -108,16 +109,16 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NUSH1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>RI2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUSH2</p>
+<p>HCI2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>RGS1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HCI1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RI1</p>
 </td>
 </tr>
 <tr>
@@ -126,16 +127,16 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HCI1</p>
+<p>NUSH2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HCI2</p>
+<p>RI2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SNGS1</p>
+<p>NUSH1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RI1</p>
+<p>RVHS1</p>
 </td>
 </tr>
 <tr>
@@ -151,16 +152,16 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HCI1</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>NUSH2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RI1</p>
+<p>HCI2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NUSH1</p>
+<p>RVHS1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HCI1</p>
 </td>
 </tr>
 <tr>
@@ -169,16 +170,16 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>RGS1</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>RI2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HCI2</p>
+<p>NUSH1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SNGS1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>RGS1</p>
+<p>RI1</p>
 </td>
 </tr>
 <tr>
@@ -194,16 +195,16 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>NUSH1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUSH2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RGS1</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>RI2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HCI1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SNGS1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HCI2</p>
 </td>
 </tr>
 <tr>
@@ -212,22 +213,22 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RGS1</p>
+<p>HCI2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NUSH2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUSH1</p>
+<p>HCI1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>RI1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RVHS1</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>R – </strong>reporting; <strong>O – </strong>opposing</p>
-<h4>Schedule: Cat A Poster Presentation</h4>
+<h4>Schedule: Cat B Poster Presentations</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -257,7 +258,7 @@ description: ""
 <p>9:00 AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ACJC1</p>
+<p>ACSI1</p>
 </td>
 </tr>
 <tr>
@@ -268,7 +269,7 @@ description: ""
 <p>9:15 AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ACJC2</p>
+<p>BMSS1</p>
 </td>
 </tr>
 <tr>
@@ -279,7 +280,7 @@ description: ""
 <p>9:30 AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ACSI1</p>
+<p>SNGS1</p>
 </td>
 </tr>
 <tr>
@@ -290,7 +291,7 @@ description: ""
 <p>9:45 AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ACSI2</p>
+<p>SNGS2</p>
 </td>
 </tr>
 <tr>
@@ -301,7 +302,7 @@ description: ""
 <p>10:00 AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NJC1</p>
+<p>HYSS1</p>
 </td>
 </tr>
 <tr>
@@ -312,7 +313,7 @@ description: ""
 <p>10:15 AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NJC2</p>
+<p>NYGH1</p>
 </td>
 </tr>
 <tr>
@@ -323,12 +324,66 @@ description: ""
 <p>10:30 AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RVHS1</p>
+<p>NYGH2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10:45 AM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NJC1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11:00 AM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NJC2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11:15 AM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RVHS2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11:30 AM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VS1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11:45 AM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VS2</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4>Admin Instructions</h4>
-<p>Please refer to this <a href="https://drive.google.com/file/d/1epEp5eNRnQs30Yz6B0x6DD4TV9EdPuBI/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a> for
+<p>Please refer to this <a href="https://drive.google.com/file/d/1xq-3KRgsyuCfDfCULVDb41R3-XghNue1/view?usp=drive_link" rel="noopener nofollow" target="_blank">link</a> for
 the Admin Instructions.</p>
-<p></p>
