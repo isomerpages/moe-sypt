@@ -6,10 +6,10 @@ links:
     url: /problems/
   - title: Format
     url: /format/
-  - title: Forms & Timeline
+  - title: SYPT Forms & Timeline
     url: /timeline/
-  - title: Competition Booklet
-    url: /competition-booklet/
+  - title: SYPT Booklet
+    url: /booklet/
     sublinks:
       - title: Category A
         url: /cat-a/
@@ -17,13 +17,7 @@ links:
         url: /cat-b/
   - title: Winners
     url: /winners/
-  - title: About IYPT
-    url: /about-iypt/
-  - title: FAQs
-    url: /faqs/
-  - title: CONTACT US
-    url: /contact-us/
-  - title: Competition Details
+  - title: SYPT Details
     url: /competition-details/
     sublinks:
       - title: Format
@@ -31,4 +25,10 @@ links:
       - title: Problems
         url: /problems/
       - title: Timer
-        url: /permalink
+        url: /timer/
+  - title: About IYPT
+    url: /about-iypt/
+  - title: FAQs
+    url: /faqs/
+  - title: CONTACT US
+    url: /contact-us/
