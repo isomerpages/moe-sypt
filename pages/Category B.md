@@ -66,16 +66,16 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RI2</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NUSH1</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RVHS1</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RI1</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -84,16 +84,16 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HCI1</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RGS1</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NUSH2</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HCI2</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -109,16 +109,16 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HCI2</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RGS1</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HCI1</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RI1</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -127,16 +127,16 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NUSH2</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RI2</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NUSH1</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RVHS1</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -152,16 +152,16 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NUSH2</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HCI2</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RVHS1</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HCI1</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -170,16 +170,16 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RGS1</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RI2</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NUSH1</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RI1</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -195,16 +195,16 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NUSH1</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NUSH2</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RGS1</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RI2</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -213,177 +213,21 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HCI2</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HCI1</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RI1</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RVHS1</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>R – </strong>reporting; <strong>O – </strong>opposing</p>
-<h4>Schedule: Cat B Poster Presentations</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Team No.</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Time</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Schools</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9:00 AM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ACSI1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9:15 AM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>BMSS1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9:30 AM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SNGS1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9:45 AM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SNGS2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10:00 AM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HYSS1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10:15 AM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NYGH1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10:30 AM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NYGH2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10:45 AM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NJC1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11:00 AM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NJC2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11:15 AM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>RVHS2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>11</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11:30 AM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>VS1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>12</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11:45 AM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>VS2</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4>Admin Instructions</h4>
 <p>Please refer to this <a href="https://drive.google.com/file/d/1xq-3KRgsyuCfDfCULVDb41R3-XghNue1/view?usp=drive_link" rel="noopener nofollow" target="_blank">link</a> for
 the Admin Instructions.</p>
