@@ -249,40 +249,4 @@ teachers and trainers, in any form or medium during the PF etc. will be
 disqualified.</p>
 </li>
 </ol>
-<h4>Instructions for Poster Participants</h4>
-<ol>
-<li>
-<p>Reporting venue for all participants is the <u>school hall at SNGS or atrium at NJC</u> by
-the main entrance. All participants are expected to be seated by 7.40 AM.</p>
-<p></p>
-</li>
-<li>
-<p>Participants are to set up their poster presentation by 9.00 AM.</p>
-<p></p>
-</li>
-<li>
-<p>Teams should also be prepared to present their work to their peers attending
-as audience members, or other participants. Do introduce your school and
-team number during your presentation for the audience to take note of your
-team.</p>
-<p></p>
-</li>
-<li>
-<p>Teams should present for a maximum of 10 mins and allow for Q&amp;A for
-5 mins.</p>
-<p></p>
-</li>
-<li>
-<p>At the end of the poster judging, you may join as an audience for the
-final PF.</p>
-<p></p>
-</li>
-<li>
-<p>The format will be similar to shortlisting. Teams are reminded to follow
-strictly to the guidelines and conduct themselves with integrity during
-the competition. Teams found to have forbidden communication, e.g. communication
-with third parties, including teachers and trainers, in any form or medium
-during the Q&amp;A etc. will be disqualified.</p>
-</li>
-</ol>
 <p></p>
