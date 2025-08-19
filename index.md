@@ -13,11 +13,17 @@ sections:
         and influential Physics competitions
       background: /images/hero-banner.png
       button: Register for Participation here [closed]
-      url: https://go.gov.sg/sypt2025participation
+      url: https://form.gov.sg/admin/form/68a2af9772fdddd815f3c636
   - announcements:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: SYPT 2026 Admin Briefing
+          date: 19 August 2025
+          announcement: SYPT 2026 Admin Briefing will be held on 29 Aug 2025 online from
+            2.00 - 3.00 pm.
+          link_text: ""
+          link_url: ""
         - title: SYPT 2026 Juror Interest Indication
           date: 11 April 2025
           announcement: "Join us as an independent juror! If you would like to participate
@@ -37,12 +43,6 @@ sections:
           announcement: SYPT Cat B Shortlisting will be held at on 16 Nov 2024 and SYPT
             Cat A will be held on 23 Nov 2024. Both Shortlisting rounds will be
             held at NUS.
-          link_text: ""
-          link_url: ""
-        - title: SYPT E-briefing
-          date: 01 August 2024
-          announcement: SYPT E-briefing will be held on 24 Aug 2024 online from 8.45am to
-            1.00pm.
           link_text: ""
           link_url: ""
 ---
