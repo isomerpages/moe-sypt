@@ -7,23 +7,13 @@ description: ""
 <h1>Overview</h1>
 <p>Two main stages -
 <br>Stage 1: Shortlisting
-<br>Stage 2: Physics Fight/Poster Presentation</p>
+<br>Stage 2: Physics Fight</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Timeline.png">
-</div>
-<p>Since 2019, the Poster Presentation has been included to encourage teams
-to continue working on the problems. Typically, all teams participate in
-shortlisting and only teams that are not shortlisted will participate in
-Poster Presentation. However, since 2022, teams may proceed directly to
-the poster presentation without needing to prepare for the shortlisting.</p>
-<p>Teams who are interested to participate in the Physics Fight will undergo
-a shortlisting. Any teams who are not shortlisted are still welcome to
-participate in the Poster Presentation.
+<p>
 <br>
 </p>
 <h4>Shortlisting</h4>
-<p>Shortlisting will be held in person at on&nbsp;16 and 23 Nov 2024 for
+<p>Shortlisting will be held in person at on&nbsp;15 and 22 Nov 2025 for
 Categories B and A respectively.
 <br>For the shortlisting, teams will prepare a 12-minute presentation comprising:</p>
 <ul>
@@ -50,18 +40,19 @@ as well, i.e. Cat A and Cat B teams cannot both present on the same main
 problem.</p>
 </li>
 </ul>
-<p><em>Category A - for participants in JC1 / IP5 / PU1 (or equivalent) and below as of 2024;</em>
-<br><em>Category B - for participants in Sec 3 / IP3 (or equivalent) and below as of 2024.</em>
+<p><em>Category A - for participants in JC1 / IP5 / PU1 (or equivalent) and below as of 2025;</em>
+<br><em>Category B - for participants in Sec 3 / IP3 (or equivalent) and below as of 2025.</em>
 </p>
 <h4>Physics Fight</h4>
-<p>SYPT 2025 will be held on-site at CHIJ St Nicholas Girl's School for Category
-B and National Junior College for Category A. The dates are:&nbsp;</p>
+<p>SYPT 2026 will be held on-site at National University of Singapore for
+Category B and Nanyang Technological University for Category A. The dates
+are:&nbsp;</p>
 <ul>
 <li>
-<p>15 Feb 2025 - Finals: Category B</p>
+<p>7 Feb 2026 - Finals: Category B</p>
 </li>
 <li>
-<p>22 Feb 2025&nbsp;- Finals: Category A</p>
+<p>14 Feb 2026&nbsp;- Finals: Category A</p>
 </li>
 </ul>
 <p>As with previous years, teams will still present 2 problems and oppose
@@ -219,54 +210,4 @@ request jurors to comment)</p>
 </tr>
 </tbody>
 </table>
-<h4>Poster Presentation</h4>
-<p>Teams will prepare a poster on one of the problems. This can be the same
-problem that was used for shortlisting.</p>
-<p>On the day of the finals, teams will present their work to jurors. Teams
-will be judged on a clear presentation that focuses on correct key physics
-theory that explains the phenomenon. Teams should also be prepared to present
-their work to their peers attending as audience members, or other participants.</p>
-<p>The format for poster presentation is as follows:&nbsp;</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Sequence</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time (min)</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Oral presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Q&amp;A with jurors</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Total</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <p></p>
