@@ -41,7 +41,7 @@ as of year of shortlisting</p>
 <p></p>
 </li>
 <li>
-<p><strong>Finals and Poster Presentation</strong>
+<p><strong>Finals</strong>
 <br>Students who are shortlisted successfully will participate in Finals.</p>
 <p></p>
 </li>
