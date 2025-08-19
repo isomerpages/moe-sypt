@@ -5,31 +5,48 @@ variant: tiptap
 description: ""
 ---
 <h4>Forms</h4>
-<p>E-briefing Form:&nbsp;<a href="https://go.gov.sg/sypt2025ebriefing" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/sypt2025ebriefing</u></a>
-<br>Interest Form:&nbsp;<a href="https://go.gov.sg/sypt2025ebriefing" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/sypt2025interest</u></a>
-<br>Participation Form: <a href="https://go.gov.sg/sypt2025participation" rel="noopener nofollow" target="_blank">https://go.gov.sg/sypt2025participation</a>
+<p><a href="https://form.gov.sg/6890575d8dc122bf20f2137c" rel="noopener nofollow" target="_blank">Admin Briefing Form (Sign up deadline: 26 Aug 2025)</a>
+<br><a href="https://form.gov.sg/68a2af9772fdddd815f3c636" rel="noopener nofollow" target="_blank">Application Form (Submission deadline 3 Nov 2025)</a>
 </p>
 <h4>Dates&nbsp;</h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Programme</p>
+<p>Event</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Date</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>E-briefing</p>
+<p>Admin Briefing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 Aug 2025</p>
+<p>29 Aug 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teams meet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Review of SYPT 2026 Questions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20 Sep 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
 </td>
 </tr>
 <tr>
@@ -39,6 +56,9 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>15 Nov 2025</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -46,6 +66,9 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>22 Nov 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NTU</p>
 </td>
 </tr>
 <tr>
@@ -55,6 +78,9 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>7 Feb 2026</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>NUS</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -63,17 +89,12 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>14 Feb 2026</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>NTU</p>
+</td>
 </tr>
 </tbody>
 </table>
-<p>24 Aug 2024 - E-briefing for interested schools
-<br>30 Aug 2024 - Interest form deadline (interest to receive materials to
-SYPT 2025 problems)
-<br>1 Nov 2024&nbsp;- Registration form deadline (confirmation of team members)
-<br>16 Nov 2024 - Shortlisting: Category B
-<br>23 Nov 2024 - Shortlisting: Category A
-<br>15 Feb 2025 - Finals: Category B
-<br>22 Feb 2025&nbsp;- Finals: Category A</p>
-<p><em>Category A - for participants in JC1 / IP5 / PU1 (or equivalent) and below as of 2024</em>
-<br><em>Category B - for participants in Sec 3 / IP3 (or equivalent) and below as of 2024</em>
+<p><em>Category A - for participants in JC1 / IP5 / PU1 (or equivalent) and below as of 2025</em>
+<br><em>Category B - for participants in Sec 3 / IP3 (or equivalent) and and below as of 2024</em>
 </p>
