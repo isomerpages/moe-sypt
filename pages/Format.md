@@ -8,10 +8,6 @@ description: ""
 <p>Two main stages -
 <br>Stage 1: Shortlisting
 <br>Stage 2: Physics Fight</p>
-<p></p>
-<p>
-<br>
-</p>
 <h4>Shortlisting</h4>
 <p>Shortlisting will be held in person at on&nbsp;15 and 22 Nov 2025 for
 Categories B and A respectively.
