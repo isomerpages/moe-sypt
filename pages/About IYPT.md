@@ -40,8 +40,8 @@ performing very well at this annual competition,&nbsp;emerging as champions
 at the following editions: 23rd (Vienna, 2010), &nbsp;26th (Taipei, 2013),
 27th (Shrewbury, United Kingdom, 2014), 28th (Nakhon Ratchasima, Thailand,
 2015), 29th (Ekaterinburg, Russia, 2016), 30th (Singapore, 2017) , 31st
-(Beijing, China 2018), 32nd (Warsaw, Poland 2019) and 37th (Budapest, Hungary
-2024).</p>
+(Beijing, China 2018), 32nd (Warsaw, Poland 2019), 37th (Budapest, Hungary
+2024) and 38th (Lund, Sweden 2025).</p>
 <p>In 2020 and 2021, the Singapore team did not participate in the IYPT due
 to COVID-19 restrictions. However, the Singapore team participated in equivalent
 online tournaments, namely the New Zealand Young Physicists' Tournament
