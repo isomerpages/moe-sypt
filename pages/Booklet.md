@@ -4,7 +4,7 @@ permalink: /booklet/
 variant: tiptap
 description: ""
 ---
-<h1>Overview</h1>
+<h1>Overview (to be updated for SYPT 2026)</h1>
 <p>The programme for the finals for both Cat B and A is as follows:</p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -24,11 +24,11 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Venue<br>(Cat B - CHIJ)</strong>
+<p><strong>Venue<br>(Cat B - NUS)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Venue<br>(Cat A - NJC)</strong>
+<p><strong>Venue<br>(Cat A - NTU)</strong>
 </p>
 </td>
 </tr>

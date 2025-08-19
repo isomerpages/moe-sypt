@@ -55,9 +55,7 @@ involving the schools they mentor.</p>
 <p>Q: What are the possible outcome of the shortlisting?
 <br>A: The independent jurors will rank the teams during the shortlisting.
 Top eight teams will be shortlisted to participate in the Physics Fights
-at the SYPT Finals based on juror recommendation. The remaining teams will
-participate in the Poster Presentation. Schools will be notified within
-a week after shortlisting.</p>
+at the SYPT Finals based on juror recommendation.</p>
 <h4>SYPT Physics Fight</h4>
 <p>Q: What is the format of the Physics Fight (PF) at the SYPT Finals?
 <br>A: Each PF will follow the following format:</p>
