@@ -96,5 +96,5 @@ description: ""
 </tbody>
 </table>
 <p><em>Category A - for participants in JC1 / IP5 / PU1 (or equivalent) and below as of 2025</em>
-<br><em>Category B - for participants in Sec 3 / IP3 (or equivalent) and and below as of 202</em>
+<br><em>Category B - for participants in Sec 3 / IP3 (or equivalent) and and below as of 2025</em>
 </p>
