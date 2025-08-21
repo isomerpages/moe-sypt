@@ -47,6 +47,8 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>NUS</p>
+<p>LT28</p>
+<p>LT29</p>
 </td>
 </tr>
 <tr>
@@ -58,6 +60,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>NUS</p>
+<p>Physics Conference Room. S11, 02-07</p>
 </td>
 </tr>
 <tr>
