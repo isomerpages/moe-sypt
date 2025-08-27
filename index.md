@@ -9,11 +9,10 @@ notification: ""
 sections:
   - hero:
       title: SYPT
-      subtitle: Singapore Young Physicists' Tournament - one of the world's foremost
-        and influential Physics competitions
+      subtitle: Singapore Young Physicists' Tournament
       background: /images/hero-banner.png
-      button: Register for Participation here [closed]
-      url: https://form.gov.sg/admin/form/68a2af9772fdddd815f3c636
+      button: Register for SYPT 2026
+      url: https://go.gov.sg/sypt2026application
   - announcements:
       title: Announcements
       id: announcements
