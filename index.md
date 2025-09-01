@@ -19,8 +19,8 @@ sections:
       announcement_items:
         - title: SYPT 2026 Question Review
           date: 20 September 2025
-          announcement: "Time: 8:00 am - 1:00 pm     Venue: LT 28 (Cat A) and LT 29 (Cat
-            B), Science Faculty, National University of Singapore"
+          announcement: "Time: 8:00 am - 1:00 pm        Venue: LT 28 (Cat A) and LT 29
+            (Cat B), Science Faculty, National University of Singapore"
           link_text: "Google Map: LT 28 LT 29"
           link_url: https://maps.app.goo.gl/8PUviwhWCrpxG6qd8
         - title: SYPT 2026 Admin Briefing
