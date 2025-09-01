@@ -17,6 +17,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: SYPT 2026 Question Review
+          date: 20 September 2025
+          announcement: "Time: 8:00 am - 1:00 pm   Venue: LT 28 (Cat A) and LT 29 (Cat B),
+            Science Faculty, National University of Singapore"
+          link_text: "Google Map: LT 28 LT 29"
+          link_url: https://maps.app.goo.gl/8PUviwhWCrpxG6qd8
         - title: SYPT 2026 Admin Briefing
           date: 19 August 2025
           announcement: SYPT 2026 Admin Briefing will be held on 29 Aug 2025 online from
@@ -30,13 +36,6 @@ sections:
             form:"
           link_text: SYPT Independent Jurors Interest Form
           link_url: https://go.gov.sg/syptinterestedjurors
-        - title: SYPT Finals
-          date: 01 January 2025
-          announcement: SYPT Cat B will be held at CHIJ St Nicholas Girls' School on 15
-            Feb 2025 and SYPT Cat A will be held at National Junior College on
-            22 Feb 2025.
-          link_text: ""
-          link_url: ""
         - title: SYPT Shortlisting
           date: 04 October 2024
           announcement: SYPT Cat B Shortlisting will be held at on 16 Nov 2024 and SYPT
@@ -44,10 +43,11 @@ sections:
             held at NUS.
           link_text: ""
           link_url: ""
-        - title: SYPT 2026 Question Review
-          date: 20 September 2025
-          announcement: "Time: 8:00 am - 1:00 pm Venue: LT 28 (Cat A) and LT 29 (Cat B),
-            Science Faculty, National University of Singapore"
-          link_text: "Google Map: LT 28 LT 29"
-          link_url: https://maps.app.goo.gl/8PUviwhWCrpxG6qd8
+        - title: SYPT Finals
+          date: 01 January 2025
+          announcement: SYPT Cat B will be held at CHIJ St Nicholas Girls' School on 15
+            Feb 2025 and SYPT Cat A will be held at National Junior College on
+            22 Feb 2025.
+          link_text: ""
+          link_url: ""
 ---
