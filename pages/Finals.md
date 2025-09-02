@@ -1,11 +1,11 @@
 ---
-title: Booklet
-permalink: /booklet/
+title: Finals
+permalink: /finals/
 variant: tiptap
 description: ""
 ---
-<h1>Overview (to be updated for SYPT 2026)</h1>
-<p>The programme for the finals for both Cat B and A is as follows:</p>
+<h1>Overview</h1>
+<p>The programme for the finals for both Category B and A is as follows:</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -40,10 +40,10 @@ description: ""
 <p>Attendance-taking for participants and jurors</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Hall</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Atrium</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -59,10 +59,10 @@ description: ""
 <p>Jurors’ Briefing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Room D^</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IS 22 at Level 2^</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -71,88 +71,57 @@ description: ""
 <br>Welcome Address &amp; Briefing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp; School Hall</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lecture Theatre 2</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
 <p>8.30 AM</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Physics Fight 1&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Room A to D^</p>
+<td rowspan="2" colspan="1">
+<p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Room A to D^</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Poster Presentation Judging 1 at 9.00 AM<em>*</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Hall</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hall</p>
+<td rowspan="2" colspan="1">
+<p></p>
 </td>
 </tr>
+<tr></tr>
 <tr>
 <td rowspan="2" colspan="1">
 <p>9.45 AM</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Physics Fight 2&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Room A to D^</p>
+<td rowspan="2" colspan="1">
+<p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Rooms A to D^</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Poster Presentation Judging 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Hall</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hall</p>
+<td rowspan="2" colspan="1">
+<p></p>
 </td>
 </tr>
+<tr></tr>
 <tr>
 <td rowspan="2" colspan="1">
 <p>11.00 AM</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Physics Fight 3&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Room A to D^</p>
+<td rowspan="2" colspan="1">
+<p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Room A to D^</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Poster Presentation Judging 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Hall</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hall</p>
+<td rowspan="2" colspan="1">
+<p></p>
 </td>
 </tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>12.15 PM</p>
@@ -161,10 +130,10 @@ description: ""
 <p>Lunch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Canteen</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Canteen</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -175,10 +144,10 @@ description: ""
 <p>Physics Fight 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Room A to D^</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Room A to D^</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -189,10 +158,10 @@ description: ""
 <p>Final Brief</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>School Hall</p>
+<p></p>
 </td>
 <td rowspan="3" colspan="1">
-<p>Lecture Theatre 5</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -213,16 +182,14 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><em>*Poster teams to be ready by 8.50 AM for presentation.</em>
-</p>
 <p><em>^Refer to Campus Layout for the respective Category.</em>
 </p>
 <h4>Instructions for Physics Fight Participants</h4>
 <p></p>
 <ol>
 <li>
-<p>Reporting venue for all participants is the <u>school hall at SNGS or atrium at NJC</u> by
-the main entrance. All participants are expected to be seated by 7.40 AM.</p>
+<p>Reporting venue for all participants is at ______________. All participants
+are expected to be seated by 7.40 AM.</p>
 <p></p>
 </li>
 <li>
@@ -234,11 +201,6 @@ to minimise delay.&nbsp;</p>
 <p>While the venue does provide connecting cables to its projector, it is
 advisable to bring along your own HDMI adapter/cable for contingency purposes.
 There is no wireless connection to the projector.</p>
-<p></p>
-</li>
-<li>
-<p>Participants and audience are allowed to view other fights or visit the
-poster presentations.&nbsp;</p>
 <p></p>
 </li>
 <li>

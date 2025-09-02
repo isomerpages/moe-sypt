@@ -1,6 +1,6 @@
 ---
-title: Forms
-permalink: /forms/
+title: Forms & Dates
+permalink: /forms-dates/
 variant: tiptap
 description: ""
 ---
