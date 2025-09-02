@@ -11,10 +11,10 @@ links:
         url: /timer/
       - title: Winners
         url: /winners/
-  - title: Forms
-    url: /forms/
-  - title: Booklet
-    url: /booklet/
+  - title: Forms & Dates
+    url: /forms-dates/
+  - title: Finals
+    url: /finals/
     sublinks:
       - title: Category A
         url: /cat-a/
