@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h1>Nanyang Technological University (Category A)</h1>
-<h4>Campus Layout and Map </h4>
+<h4>Campus Layout and Map</h4>
 <p></p>
 <h4>Schedule: Cat A Physics Fight and Venues</h4>
 <table style="minWidth: 175px">
