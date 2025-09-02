@@ -4,14 +4,8 @@ permalink: /cat-b/
 variant: tiptap
 description: ""
 ---
-<h1>National University of Singapore (Cat B) - To be updated for SYPT 2026</h1>
+<h1>National University of Singapore (Category B) </h1>
 <h4>Campus Layout and Map</h4>
-<div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="391" width="679" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcnvGohnYAko0Bmn69s8maU_smqnr8_3V0RRICu-u1ZOI8aXm0c3W4OXXPguTkijz2R36of9bkxfUNqPhwOJHWyjf1ZTy5pKv118iGzK8UY1PZPlmRjfaOlp68O6Y_9AqGsaUMkoOSxe85H5cfd4rU?key=--N09Ipa7FmkGCDHctzGtIXA">
-</div>
-<div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="383" width="679" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe4Fp0RgeMAqlah2nTzHGiPPfZbJG1p_ysIchIz0g3LeF9xgD9Ns7ZsHCWCMTQmpTvFacCkB0VKMQ4DFHE0rHD8NjW5crJQZTbapsYAbCZjw3tsdSZJV1PLjRUaoUoRMwqlA03RfVjCFFw2d9EPUgc?key=--N09Ipa7FmkGCDHctzGtIXA">
-</div>
 <p></p>
 <h4>Schedule: Cat B Physics Fight and Venues</h4>
 <table style="minWidth: 175px">
