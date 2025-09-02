@@ -4,7 +4,7 @@ permalink: /finals/
 variant: tiptap
 description: ""
 ---
-<h1>Overview </h1>
+<h1>Overview</h1>
 <p>The programme for the finals for both Category B and A is as follows:</p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -81,78 +81,47 @@ description: ""
 <td rowspan="2" colspan="1">
 <p>8.30 AM</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Physics Fight 1&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Poster Presentation Judging 1 at 9.00 AM<em>*</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p></p>
 </td>
 </tr>
+<tr></tr>
 <tr>
 <td rowspan="2" colspan="1">
 <p>9.45 AM</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Physics Fight 2&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Poster Presentation Judging 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p></p>
 </td>
 </tr>
+<tr></tr>
 <tr>
 <td rowspan="2" colspan="1">
 <p>11.00 AM</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Physics Fight 3&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Poster Presentation Judging 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p></p>
 </td>
 </tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>12.15 PM</p>
