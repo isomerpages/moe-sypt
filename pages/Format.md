@@ -54,8 +54,8 @@ are:&nbsp;</p>
 <p>As with previous years, teams will still present 2 problems and oppose
 2 problems in the category list. This can include the problems used during
 shortlisting. Problems will be based on IYPT challenge rules.</p>
-<p>Details on the rules and guidelines for the online event will be updated
-soon. The scoring rubric can be found <a href="https://drive.google.com/file/d/10EFThfMyvM0F9-Z1blPLBrAUEk0_vmHe/view?usp=share_link" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>.
+<p>Details on the rules and guidelines for the event will be updated soon.
+The scoring rubric can be found <a href="https://drive.google.com/file/d/10EFThfMyvM0F9-Z1blPLBrAUEk0_vmHe/view?usp=share_link" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>.
 This rubric is adapted from the IYPT rubric.</p>
 <p>The format for each fight is as follows:&nbsp;</p>
 <table style="minWidth: 50px">
