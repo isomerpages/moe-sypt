@@ -2,7 +2,7 @@ collections:
   about-sypt:
     output: true
     order:
-      - Winners.md
-      - Timer.md
-      - Format.md
       - Background.md
+      - Format.md
+      - Timer.md
+      - Winners.md
