@@ -4,7 +4,7 @@ permalink: /background/
 variant: tiptap
 description: ""
 ---
-<h1>Background</h1>
+<h1>Overview</h1>
 <p>The Singapore Young Physicists’ Tournament (SYPT) tests participants'
 ability to solve complicated real-world physics problems. In a typical
 Fight, the Reporter has to present their solutions to proposed problems
