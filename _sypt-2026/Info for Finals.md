@@ -211,6 +211,6 @@ teachers and trainers, in any form or medium during the PF etc. will be
 disqualified.</p>
 </li>
 </ol>
-<h4>Category A Finals</h4>
-<p>Category B Finals</p>
+<h4>Click for further instructions: Category A Finals</h4>
+<h4>Click for further instructions: Category B Finals</h4>
 <p></p>
