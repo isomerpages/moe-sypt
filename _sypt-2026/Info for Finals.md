@@ -211,6 +211,6 @@ teachers and trainers, in any form or medium during the PF etc. will be
 disqualified.</p>
 </li>
 </ol>
-<h4>Click for further instructions: Category A Finals</h4>
-<h4>Click for further instructions: Category B Finals</h4>
+<h4>Click for further instructions: <a href="https://sypt.moe.edu.sg/cat-a/" rel="noopener nofollow" target="_blank">Category A Finals</a></h4>
+<h4>Click for further instructions: <a href="https://sypt.moe.edu.sg/cat-b/" rel="noopener nofollow" target="_blank">Category B Finals</a></h4>
 <p></p>
