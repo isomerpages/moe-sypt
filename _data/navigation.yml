@@ -11,8 +11,8 @@ links:
         url: /timer/
       - title: Past Winners
         url: /winners/
-  - title: Forms & Dates
-    url: /forms-dates/
+  - title: SYPT 2026
+    collection: sypt-2026
   - title: Finals
     url: /finals/
     sublinks:
@@ -20,9 +20,11 @@ links:
         url: /cat-a/
       - title: Category B
         url: /cat-b/
-  - title: About IYPT
-    url: /about-iypt/
   - title: FAQs
     url: /faqs/
   - title: CONTACT US
     url: /contact-us/
+  - title: Forms & Dates
+    url: /forms-dates/
+  - title: About IYPT
+    url: /about-iypt/
