@@ -1,0 +1,4 @@
+collections:
+  about-sypt:
+    output: true
+    order: []
