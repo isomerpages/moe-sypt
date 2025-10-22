@@ -1,4 +1,5 @@
 collections:
   about-sypt:
     output: true
-    order: []
+    order:
+      - Background.md
