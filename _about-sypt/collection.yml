@@ -2,4 +2,5 @@ collections:
   about-sypt:
     output: true
     order:
+      - Format.md
       - Background.md
