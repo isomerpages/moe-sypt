@@ -1,0 +1,8 @@
+collections:
+  sypt-2026:
+    output: true
+    order:
+      - Problems.md
+      - Forms & Dates.md
+      - Info for Finals.md
+      - FAQs.md

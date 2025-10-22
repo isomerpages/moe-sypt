@@ -1,0 +1,8 @@
+collections:
+  about-sypt:
+    output: true
+    order:
+      - Background.md
+      - Format.md
+      - Timer.md
+      - Past Winners.md

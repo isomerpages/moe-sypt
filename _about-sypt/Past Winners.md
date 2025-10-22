@@ -1,5 +1,5 @@
 ---
-title: Winners
+title: Past Winners
 permalink: /winners/
 variant: tiptap
 description: ""
