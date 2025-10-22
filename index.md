@@ -50,4 +50,13 @@ sections:
             22 Feb 2025.
           link_text: ""
           link_url: ""
+  - infopic:
+      title: TEAM SINGAPORE
+      subtitle: Congratulations  to
+      id: infopic
+      description: for emerging as Champion at International Young Physicists’
+        Tournament (IYPT) 2025!
+      button: Watch the Finals!
+      url: https://www.google.com/search?q=iypt+singapore+final+fight+youtube+video&sca_esv=510a591a39dbdeb7&sxsrf=AE3TifPz8n8oECVdZ8O9FGeTaQpryJI7Wg%3A1761095875000&ei=wjD4aPbhPLuz4-EPkOGSyQ0&oq=iypt+singapore+final+fight+yo&gs_lp=Egxnd3Mtd2l6LXNlcnAiHWl5cHQgc2luZ2Fwb3JlIGZpbmFsIGZpZ2h0IHlvKgIIATIFECEYoAEyBRAhGKABSNQtUIEDWLQZcAh4AZABAZgBogOgAcQYqgEJMC4yLjUuMi4yuAEByAEA-AEBmAISoAL2F8ICChAAGLADGNYEGEfCAgQQIRgVwgIHECEYoAEYCpgDAIgGAZAGCJIHCTguMi4zLjMuMqAHjSuyBwkwLjIuMy4zLjK4B5YXwgcIMC4xLjEyLjXIB3I&sclient=gws-wiz-serp#fpstate=ive&vld=cid:f3529a1b,vid:3qangzZkpq0,st:0
+      alt: Image alt text
 ---
