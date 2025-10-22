@@ -2,5 +2,6 @@ collections:
   about-sypt:
     output: true
     order:
+      - Timer.md
       - Format.md
       - Background.md
