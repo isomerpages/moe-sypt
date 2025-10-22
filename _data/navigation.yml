@@ -3,8 +3,6 @@ links:
   - title: About SYPT
     url: /background/
     sublinks:
-      - title: Problems
-        url: /problems/
       - title: Format
         url: /format/
       - title: Timer
