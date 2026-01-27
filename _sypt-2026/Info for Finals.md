@@ -24,7 +24,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Category B </strong>
+<p><strong>Category B</strong>
 </p>
 <p><strong>(7 Feb 2026)</strong>
 </p>
@@ -73,8 +73,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Welcome address and</p>
-<p>briefing for student participants and audience</p>
+<p>Welcome address and briefing for student participants and audience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students: NUS LT28</p>
