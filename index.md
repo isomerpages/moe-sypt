@@ -27,6 +27,24 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: SYPT Finals
+          date: 14 February 2026
+          announcement: SYPT Cat A will be held at NTU School of Physical and Mathematical
+            Sciences.
+          link_text: ""
+          link_url: ""
+        - title: SYPT Finals
+          date: 07 February 2026
+          announcement: SYPT Cat B will be held at NUS Faculty of Science.
+          link_text: ""
+          link_url: ""
+        - title: SYPT 2026 Juror Interest Indication
+          date: 11 April 2025
+          announcement: "Join us as an independent juror! If you would like to participate
+            in SYPT 2026 as an independent juror, indicate your interest in this
+            form:"
+          link_text: SYPT Independent Jurors Interest Form
+          link_url: https://go.gov.sg/syptinterestedjurors
         - title: SYPT 2026 Question Review
           date: 20 September 2025
           announcement: "Time: 8:00 am - 1:00 pm  Venue: LT 28 (Cat A) and LT 29 (Cat B),
@@ -37,24 +55,6 @@ sections:
           date: 19 August 2025
           announcement: SYPT 2026 Admin Briefing will be held on 29 Aug 2025 online from
             2.00 - 3.00 pm.
-          link_text: ""
-          link_url: ""
-        - title: SYPT 2026 Juror Interest Indication
-          date: 11 April 2025
-          announcement: "Join us as an independent juror! If you would like to participate
-            in SYPT 2026 as an independent juror, indicate your interest in this
-            form:"
-          link_text: SYPT Independent Jurors Interest Form
-          link_url: https://go.gov.sg/syptinterestedjurors
-        - title: SYPT Finals
-          date: 14 February 2026
-          announcement: SYPT Cat A will be held at NTU School of Physical and Mathematical
-            Sciences.
-          link_text: ""
-          link_url: ""
-        - title: SYPT Finals
-          date: 07 February 2026
-          announcement: SYPT Cat B will be held at NUS Faculty of Science.
           link_text: ""
           link_url: ""
 ---
