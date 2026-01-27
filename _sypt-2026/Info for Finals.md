@@ -24,11 +24,15 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Venue<br>(Cat B - NUS)</strong>
+<p><strong>Category B </strong>
+</p>
+<p><strong>(7 Feb 2026)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Venue<br>(Cat A - NTU)</strong>
+<p><strong>Category A</strong>
+</p>
+<p><strong>(14 Feb 2026)</strong>
 </p>
 </td>
 </tr>
@@ -37,10 +41,14 @@ description: ""
 <p>7.40 AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Attendance-taking for participants and jurors</p>
+<p>Registration for both participants and jurors.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Jurors: Outside NUS LT28</p>
+<p>
+<br>
+</p>
+<p>Students: NUS LT28</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -49,17 +57,15 @@ description: ""
 <tr>
 <td rowspan="2" colspan="1">
 <p>7.50 AM</p>
-<p>
-<br>
-</p>
+<p></p>
 <p><em>Note: briefings will happen concurrently</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jurors’ Briefing</p>
+<p>Jurors’ briefing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Jurors: Multi-Purpose Room (C4-02-01) above Frontier Science canteen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -67,11 +73,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Participants and Audience
-<br>Welcome Address &amp; Briefing</p>
+<p>Welcome address and</p>
+<p>briefing for student participants and audience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Students: NUS LT28</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -85,7 +91,8 @@ description: ""
 <p>Physics Fight 1&nbsp;</p>
 </td>
 <td rowspan="2" colspan="1">
-<p></p>
+<p>NUS S-16 Level 5</p>
+<p>Seminar Rooms 1 to 4</p>
 </td>
 <td rowspan="2" colspan="1">
 <p></p>
@@ -100,7 +107,8 @@ description: ""
 <p>Physics Fight 2&nbsp;</p>
 </td>
 <td rowspan="2" colspan="1">
-<p></p>
+<p>NUS S-16 Level 5</p>
+<p>Seminar Rooms 1 to 4</p>
 </td>
 <td rowspan="2" colspan="1">
 <p></p>
@@ -115,7 +123,8 @@ description: ""
 <p>Physics Fight 3&nbsp;</p>
 </td>
 <td rowspan="2" colspan="1">
-<p></p>
+<p>NUS S-16 Level 5</p>
+<p>Seminar Rooms 1 to 4</p>
 </td>
 <td rowspan="2" colspan="1">
 <p></p>
@@ -130,7 +139,7 @@ description: ""
 <p>Lunch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Outside NUS LT 28</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -144,7 +153,8 @@ description: ""
 <p>Physics Fight 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NUS S-16 Level 5</p>
+<p>Seminar Rooms 1 to 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -152,65 +162,81 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.30 PM</p>
+<p>2.15 PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Final Brief</p>
+<p>Walk to venue for Final Fight</p>
 </td>
-<td rowspan="3" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1">
+<p>Participants, jurors and audience to make their way to NUS-LT28 and be
+seated by 2:30 pm</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.45 PM</p>
+<p>2:40 pm</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Arrival of Guest-of-Honour</p>
+<p>Welcome Address by&nbsp;Chairman, SYPT 2026 Committee</p>
+<p>Speech by Guest-of-Honour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS LT 28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3:00 pm</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Final Physics Fight</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>NUS LT 28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4.45 PM</p>
+<p>5:00 pm</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Prize Presentation</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>NUS LT 28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5:30 pm</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>End of SYPT Category B</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Home Sweet Home</p>
+</td>
 </tr>
 </tbody>
 </table>
-<p><em>^Refer to Campus Layout for the respective Category.</em>
-</p>
-<h4>Instructions for Physics Fight Participants</h4>
 <p></p>
-<ol>
-<li>
-<p>Reporting venue for all participants is at ______________. All participants
-are expected to be seated by 7.40 AM.</p>
-<p></p>
-</li>
-<li>
-<p>Participants are advised to pre-load their slides prior to their fight
-to minimise delay.&nbsp;</p>
-<p></p>
-</li>
-<li>
-<p>While the venue does provide connecting cables to its projector, it is
-advisable to bring along your own HDMI adapter/cable for contingency purposes.
-There is no wireless connection to the projector.</p>
-<p></p>
-</li>
-<li>
-<p>Teams are reminded to follow strictly to the guidelines and conduct themselves
-with integrity and respect towards the other team. Teams found to have
-forbidden communication, e.g. communication with third parties, including
-teachers and trainers, in any form or medium during the PF etc. will be
-disqualified.</p>
-</li>
-</ol>
 <h4>Click for further instructions: <a href="https://sypt.moe.edu.sg/cat-a/" rel="noopener nofollow" target="_blank">Category A Finals</a></h4>
 <h4>Click for further instructions: <a href="https://sypt.moe.edu.sg/cat-b/" rel="noopener nofollow" target="_blank">Category B Finals</a></h4>
 <p></p>
