@@ -46,11 +46,10 @@ sections:
             form:"
           link_text: SYPT Independent Jurors Interest Form
           link_url: https://go.gov.sg/syptinterestedjurors
-        - title: SYPT Shortlisting
-          date: 04 October 2024
-          announcement: SYPT Cat B Shortlisting will be held at on 16 Nov 2024 and SYPT
-            Cat A will be held on 23 Nov 2024. Both Shortlisting rounds will be
-            held at NUS.
+        - title: SYPT Finals
+          date: 14 February 2026
+          announcement: SYPT Cat A will be held at NTU School of Physical and Mathematical
+            Sciences.
           link_text: ""
           link_url: ""
         - title: SYPT Finals
