@@ -54,10 +54,8 @@ sections:
           link_text: ""
           link_url: ""
         - title: SYPT Finals
-          date: 01 January 2025
-          announcement: SYPT Cat B will be held at CHIJ St Nicholas Girls' School on 15
-            Feb 2025 and SYPT Cat A will be held at National Junior College on
-            22 Feb 2025.
+          date: 07 February 2026
+          announcement: SYPT Cat B will be held at NUS Faculty of Science.
           link_text: ""
           link_url: ""
 ---
