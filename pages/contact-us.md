@@ -27,11 +27,6 @@ contacts:
     title: Mr LIM Jun Li
   - content:
       - phone: ""
-      - email: LIM_Wei_Hao@moe.gov.sg
-      - other: MOE HQ
-    title: Mr LIM Wei Hao
-  - content:
-      - phone: ""
       - email: TAN_Li_Ching@moe.gov.sg
       - other: MOE HQ
     title: Ms TAN Li Ching Claudia
