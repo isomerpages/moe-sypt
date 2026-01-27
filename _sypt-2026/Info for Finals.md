@@ -176,7 +176,7 @@ seated by 2:30 pm</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2:40 pm</p>
+<p>2:40 PM</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -193,7 +193,7 @@ seated by 2:30 pm</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3:00 pm</p>
+<p>3:00 PM</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -208,7 +208,7 @@ seated by 2:30 pm</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5:00 pm</p>
+<p>5:00 PM</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -223,7 +223,7 @@ seated by 2:30 pm</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5:30 pm</p>
+<p>5:30 PM</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
