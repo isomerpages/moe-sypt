@@ -212,6 +212,23 @@ seated by 2:30 PM</p>
 </tbody>
 </table>
 <h1>Physics Fights &amp; Venues</h1>
+<p>Physics Fights Etiquette (for audience):</p>
+<ol>
+<li>
+<p><strong>Photography:</strong> Strictly prohibited by all members of the
+audience with any team affiliation as it may be perceived as providing
+an unfair advantage, particularly if presentation slides or other materials
+are captured.</p>
+</li>
+<li>
+<p><strong>Videography:</strong> Each school may designate one student who
+is not participating in the fight to video record the entire fight. Videography
+is permitted solely for the school’s internal training and review purposes.
+Recordings must not be shared, distributed, or posted on any public or
+external platforms, nor used to gain any advantage in subsequent fights.</p>
+</li>
+</ol>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Cat_B_fight_matrix.png">
 </div>
@@ -220,7 +237,7 @@ seated by 2:30 PM</p>
 </div>
 <p></p>
 <h1>Programme Booklets</h1>
-<p><strong>Instructions for participants</strong>
+<p><strong>Instructions for Participants</strong>
 </p>
 <p>Instructions can be found in the Programme Booklets - participants are
 expected to be familiar with the updated instructions.</p>
