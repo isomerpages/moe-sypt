@@ -4,7 +4,7 @@ permalink: /finals/
 variant: tiptap
 description: ""
 ---
-<h1>Overview</h1>
+<h1>Schedule</h1>
 <p>The programme for the finals for both Category B and A is as follows:</p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -243,7 +243,7 @@ seated by 2:30 PM</p>
 </tr>
 </tbody>
 </table>
-<p>Fight Matrix are as follows:</p>
+<h1>Physics Fights &amp; Venues</h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Cat_B_fight_matrix.png">
 </div>
