@@ -102,35 +102,74 @@ min)</p>
 <p></p>
 </li>
 </ul>
-<p>Q: What are the role coefficients of Reporter and Opponent?
-<br>A: Reporting score is multiplied by a coefficient of 3.0 or lower, depending
-on the penalty awarded (see answer to next question). Opposing score is
-multiplied by a coefficient of 2.0.</p>
-<p>Q: How many problems should our team prepare for the PF?
-<br>A: In a PF, a team may reject the challenge of four different problems
-without penalty. From then on, every subsequent rejection will result in
-a penalty of a drop in coefficient of 0.2 (starting from 3.0).&nbsp;
-<br>Most schools will work on at least 2 problems as reporter and 2 other
-problems as opponent. However, if time allows, teams are encouraged to
-work on more problems.</p>
+<p>Q: How are the score computed?
+<br>A: After every stage, each Juror scores the teams with a mark from 1 (lowest)
+to 10 (Highest). One highest and one lowest mark are replaced by a single
+mark equal to their average. The team’s mark for the role is the sum of
+the marks, multiplied by the corresponding role coefficient.</p>
+<ul>
+<li>
+<p>Role coefficients are:</p>
+<ul>
+<li>
+<p>a. Reporter: 3.0, or lower, as defined below, depending on the penalty
+awarded,</p>
+</li>
+<li>
+<p>b. Opponent: 2.0.</p>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>
+<p>In a PF, a team may reject the challenge of four different problems without
+penalty. From then on, every subsequent rejection will result in a drop
+of coefficient of 0.2 (starting from 3.0).&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>The sum of points (SP) is the total score a team earns in a single physics
+fight (PF). Total Score in the Tournament (TSP) is the sum of SP scores
+across all PFs. All teams are ranked based on their TSP and in case of
+a tied TSP, Fight Wins (FW) is used as tie-breaker.</p>
+</li>
+<li>
+<p>FW is the number of PFs in which a team had the highest Normalized Points
+(NP) among the two teams competing in that PF. The normalization factor
+is the default coefficient for a reporter team and opponent team, regardless
+of their penalty (if any). The formula for NP computation are: (i) Reporting
+team: NP = SPx(1/3), (ii) Opponent team: NP = SPx(1/2).</p>
+</li>
+</ul>
 <p>Q: In the PF, how many times can the same member report and oppose?
-<br>A: Each member in the team can report/oppose at most twice out of the
-four PFs (i.e.&nbsp;report once&nbsp;and oppose once, report twice or oppose
-twice).</p>
+<br>A: Each member in the team can only report/oppose twice out of the four
+PFs (i.e. report once and oppose once, report twice or oppose twice).</p>
 <p>Q: As opponent team in PF, what are the problems that we can't challenge
 the reporter team to?
 <br>A: The problems that an opponent cannot challenge will be informed by
 the chief juror in the room. Problems cannot be challenged if</p>
-<p>(a) presented by the opponent earlier,
-<br>(b) opposed by the opponent earlier,
-<br>(c) presented by the reporter earlier,
-<br>(d) rejected by the reporter earlier</p>
+<ul>
+<li>
+<p>presented by the opponent earlier,</p>
+</li>
+<li>
+<p>opposed by the opponent earlier,</p>
+</li>
+<li>
+<p>presented by the reporter earlier,</p>
+</li>
+<li>
+<p>rejected by the reporter earlier.</p>
+</li>
+</ul>
 <p>There must be at least 2 problems left to challenge, otherwise the conditions
 are released in the order a, b, c, d.</p>
 <h4>SYPT Final Fight</h4>
 <p>Q: What is the Final Fight?
-<br>A: The two teams with the highest total score in the PF will take part
-in the Final Fight.</p>
+<br>A: The two teams with the highest total score TSP will take part in the
+Final Fight.</p>
 <p>Q: What are the details of the Final Fight?
 <br>A: Everything is reset for the Final Fight including scores, coefficient,
 problems allowed and reporters allowed. Within 15 minutes after announcement,
