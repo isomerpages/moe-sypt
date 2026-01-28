@@ -251,8 +251,10 @@ seated by 2:30 PM</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cat_A_fight_matrix.png">
 </div>
 <p></p>
-<p></p>
-<p></p>
+<h1>Programme  Booklets</h1>
+<p>More instructions can be found in the Programme Booklets.</p>
+<p>Click here for Catergory B Programme Booklets.</p>
+<p>Click here for Catergory A Programme Booklets.</p>
 <p></p>
 <p></p>
 <p></p>
