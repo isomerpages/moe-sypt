@@ -243,6 +243,21 @@ seated by 2:30 PM</p>
 </tr>
 </tbody>
 </table>
+<p>Fight Matrix are as follows:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Cat_B_fight_matrix.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cat_A_fight_matrix.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <h4>Click for further instructions: <a href="https://sypt.moe.edu.sg/cat-a/" rel="noopener nofollow" target="_blank">Category A Finals</a></h4>
 <h4>Click for further instructions: <a href="https://sypt.moe.edu.sg/cat-b/" rel="noopener nofollow" target="_blank">Category B Finals</a></h4>
