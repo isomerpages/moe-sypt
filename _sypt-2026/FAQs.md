@@ -102,20 +102,20 @@ min)</p>
 <p></p>
 </li>
 </ul>
-<p>Q: What are the weightings of Reporting and Opposing?
-<br>A: Reporting score is multiplied by a coefficient of 3 while Opposing
-score is multiplied by a coefficient of 2. The awards will be based on
-the rank order of the total score of all fights.</p>
+<p>Q: What are the role coefficients of Reporter and Opponent?
+<br>A: Reporting score is multiplied by a coefficient of 3.0 or lower, depending
+on the penalty awarded (see answer to next question). Opposing score is
+multiplied by a coefficient of 2.0.</p>
 <p>Q: How many problems should our team prepare for the PF?
 <br>A: In a PF, a team may reject the challenge of four different problems
 without penalty. From then on, every subsequent rejection will result in
-drop of coefficient of 0.2 (starting from 3.0).&nbsp;
+a penalty of a drop in coefficient of 0.2 (starting from 3.0).&nbsp;
 <br>Most schools will work on at least 2 problems as reporter and 2 other
 problems as opponent. However, if time allows, teams are encouraged to
 work on more problems.</p>
 <p>Q: In the PF, how many times can the same member report and oppose?
-<br>A: Each member in the team can only report/oppose twice out of the four
-PFs (i.e.&nbsp;report once&nbsp;and oppose once, report twice or oppose
+<br>A: Each member in the team can report/oppose at most twice out of the
+four PFs (i.e.&nbsp;report once&nbsp;and oppose once, report twice or oppose
 twice).</p>
 <p>Q: As opponent team in PF, what are the problems that we can't challenge
 the reporter team to?
