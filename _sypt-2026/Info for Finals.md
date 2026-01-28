@@ -251,16 +251,22 @@ seated by 2:30 PM</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cat_A_fight_matrix.png">
 </div>
 <p></p>
-<h1>Programme  Booklets</h1>
-<p>More instructions can be found in the Programme Booklets.</p>
+<h1>Programme Booklets</h1>
+<p><strong>Instructions for participants</strong>
+</p>
+<p>Instructions can be found in the Programme Booklets - participants are
+expected to be familiar with the updated instructions.</p>
+<p><strong>Scoring Web-App Testing</strong>
+</p>
+<p>This year, we are live-testing a scoring web-app.&nbsp;A QR code is available
+in the Programme Booklet for lice viewing of scores and ranking
+<br><u>Disclaimer</u>: The scores and rankings reflected in the web-app are
+not the official results because we are live testing the web-app. Should
+you find mistakes or have suggestions for improvement, please send your
+comments to <a href="mailto:yptcomm@gmail.com" rel="noopener noreferrer nofollow" target="_blank"><u>yptcomm@gmail.com</u></a>.</p>
 <p>Click here for Catergory B Programme Booklets.</p>
 <p>Click here for Catergory A Programme Booklets.</p>
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<h4>Click for further instructions: <a href="https://sypt.moe.edu.sg/cat-a/" rel="noopener nofollow" target="_blank">Category A Finals</a></h4>
-<h4>Click for further instructions: <a href="https://sypt.moe.edu.sg/cat-b/" rel="noopener nofollow" target="_blank">Category B Finals</a></h4>
 <p></p>
