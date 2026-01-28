@@ -249,8 +249,8 @@ in the Programme Booklet for lice viewing of scores and ranking
 not the official results because we are live testing the web-app. Should
 you find mistakes or have suggestions for improvement, please send your
 comments to <a href="mailto:yptcomm@gmail.com" rel="noopener noreferrer nofollow" target="_blank"><u>yptcomm@gmail.com</u></a>.</p>
-<p>Click here for Catergory B Programme Booklets.</p>
-<p>Click here for Catergory A Programme Booklets.</p>
+<p>Click here for Category B Programme Booklets.</p>
+<p>Click here for Category A Programme Booklets.</p>
 <p></p>
 <p></p>
 <p></p>
