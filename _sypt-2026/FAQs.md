@@ -61,8 +61,10 @@ at the SYPT Finals based on juror recommendation.</p>
 <br>A: Each PF will follow the following format:</p>
 <ul>
 <li>
-<p>Opponent challenge the Reporter. Reporter team captain accepts or rejects
-the challenge</p>
+<p>Opponent challenges the Reporter.</p>
+</li>
+<li>
+<p>Reporter team captain accepts or rejects the challenge</p>
 </li>
 <li>
 <p>The Reporter prepares his/her presentation (2 mins)</p>
@@ -77,9 +79,9 @@ the challenge</p>
 <p>The Opponent prepares his/her presentation (4 mins)</p>
 </li>
 <li>
-<p>The Opponent takes the floor and leads an oral discussion with the Reporter
-(12 mins; Reporter must engage in discussion within 5 minute of taking
-the floor)</p>
+<p>The Opponent takes the floor and leads an oral discussion with the Reporter.
+The Opponent must engage in discussion within 5 minutes of taking the floor.
+(12 mins)</p>
 </li>
 <li>
 <p>The Opponent takes the floor to summarise the discussion (1 min)</p>
@@ -91,12 +93,11 @@ the floor)</p>
 <p>Questions from each jury member (10 mins)</p>
 </li>
 <li>
-<p>All jurors write initial comments and scores for Reporter and Opponent
-(5 mins)</p>
+<p>All jurors write comments and scores for Reporter and Opponent (5 mins)</p>
 </li>
 <li>
-<p>Open scoring (Head juror requests all jurors to reveal their scores to
-everyone and request jurors with highest and lowest score to comment) (5
+<p>Open scoring: Head juror requests all jurors to reveal their scores to
+everyone and request jurors with highest and lowest score to comment (5
 min)</p>
 <p></p>
 </li>
