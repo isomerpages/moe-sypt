@@ -45,13 +45,13 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Jurors: Outside NUS LT28</p>
-<p>
-<br>
-</p>
+<p></p>
 <p>Students: NUS LT28</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Jurors: NTU SPMS LT3</p>
 <p></p>
+<p>Students: NTU SPMS LT1</p>
 </td>
 </tr>
 <tr>
@@ -68,7 +68,10 @@ description: ""
 <p>Jurors: Multi-Purpose Room (C4-02-01) above Frontier Science canteen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Jurors: NTU SPMS LT3</p>
+<p>
+<br>
+</p>
 </td>
 </tr>
 <tr>
@@ -79,7 +82,7 @@ description: ""
 <p>Students: NUS LT28</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Students: NTU SPMS LT1</p>
 </td>
 </tr>
 <tr>
@@ -94,7 +97,8 @@ description: ""
 <p>Seminar Rooms 1 to 4</p>
 </td>
 <td rowspan="2" colspan="1">
-<p></p>
+<p>NTU SPMS</p>
+<p>LTs 1 to 5</p>
 </td>
 </tr>
 <tr></tr>
@@ -110,7 +114,8 @@ description: ""
 <p>Seminar Rooms 1 to 4</p>
 </td>
 <td rowspan="2" colspan="1">
-<p></p>
+<p>NTU SPMS</p>
+<p>LTs 1 to 5</p>
 </td>
 </tr>
 <tr></tr>
@@ -126,7 +131,8 @@ description: ""
 <p>Seminar Rooms 1 to 4</p>
 </td>
 <td rowspan="2" colspan="1">
-<p></p>
+<p>NTU SPMS</p>
+<p>LTs 1 to 5</p>
 </td>
 </tr>
 <tr></tr>
@@ -141,7 +147,7 @@ description: ""
 <p>Outside NUS LT 28</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NTU SPMS Atrium (Level 3)</p>
 </td>
 </tr>
 <tr>
@@ -156,7 +162,8 @@ description: ""
 <p>Seminar Rooms 1 to 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NTU SPMS</p>
+<p>LTs 1 to 5</p>
 </td>
 </tr>
 <tr>
@@ -168,10 +175,11 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Participants, jurors and audience to make their way to NUS-LT28 and be
-seated by 2:30 pm</p>
+seated by 2:30 PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Participants, jurors and audience to make their way to SPMS-LT1 and be
+seated by 2:30 PM</p>
 </td>
 </tr>
 <tr>
@@ -188,7 +196,7 @@ seated by 2:30 pm</p>
 <p>NUS LT 28</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NTU SPMS LT1</p>
 </td>
 </tr>
 <tr>
@@ -203,7 +211,7 @@ seated by 2:30 pm</p>
 <p>NUS LT 28</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NTU SPMS LT1</p>
 </td>
 </tr>
 <tr>
@@ -218,7 +226,7 @@ seated by 2:30 pm</p>
 <p>NUS LT 28</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NTU SPMS LT1</p>
 </td>
 </tr>
 <tr>
