@@ -188,39 +188,7 @@ seated by 2:30 PM</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Arrival of Guest-of-Honour</p>
-<p>Welcome Address by&nbsp;Chairman, SYPT 2026 Committee</p>
-<p>Speech by Guest-of-Honour</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS LT 28</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NTU SPMS LT1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3:00 PM</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Final Physics Fight</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS LT 28</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NTU SPMS LT1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5:00 PM</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Prize Presentation</p>
+<p>Final Fight Showcase &amp; Prize Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NUS LT 28</p>
@@ -244,6 +212,23 @@ seated by 2:30 PM</p>
 </tbody>
 </table>
 <h1>Physics Fights &amp; Venues</h1>
+<p>Physics Fights Etiquette (for audience):</p>
+<ol>
+<li>
+<p><strong>Photography:</strong> Strictly prohibited by all members of the
+audience with any team affiliation as it may be perceived as providing
+an unfair advantage, particularly if presentation slides or other materials
+are captured.</p>
+</li>
+<li>
+<p><strong>Videography:</strong> Each school may designate one student who
+is not participating in the fight to video record the entire fight. Videography
+is permitted solely for the school’s internal training and review purposes.
+Recordings must not be shared, distributed, or posted on any public or
+external platforms, nor used to gain any advantage in subsequent fights.</p>
+</li>
+</ol>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Cat_B_fight_matrix.png">
 </div>
@@ -252,7 +237,7 @@ seated by 2:30 PM</p>
 </div>
 <p></p>
 <h1>Programme Booklets</h1>
-<p><strong>Instructions for participants</strong>
+<p><strong>Instructions for Participants</strong>
 </p>
 <p>Instructions can be found in the Programme Booklets - participants are
 expected to be familiar with the updated instructions.</p>
@@ -264,8 +249,8 @@ in the Programme Booklet for lice viewing of scores and ranking
 not the official results because we are live testing the web-app. Should
 you find mistakes or have suggestions for improvement, please send your
 comments to <a href="mailto:yptcomm@gmail.com" rel="noopener noreferrer nofollow" target="_blank"><u>yptcomm@gmail.com</u></a>.</p>
-<p>Click here for Catergory B Programme Booklets.</p>
-<p>Click here for Catergory A Programme Booklets.</p>
+<p>Click here for Category B Programme Booklets.</p>
+<p>Click here for Category A Programme Booklets.</p>
 <p></p>
 <p></p>
 <p></p>
