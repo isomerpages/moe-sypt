@@ -190,7 +190,7 @@ seated by 2:30 PM</p>
 <td rowspan="1" colspan="1">
 <p>Arrival of Guest-of-Honour</p>
 <p></p>
-<p>Welcome Address and Speech</p>
+<p>Welcome Address and GOH Speech</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NUS LT 28</p>
