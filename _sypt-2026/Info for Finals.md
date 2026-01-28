@@ -205,22 +205,7 @@ seated by 2:30 PM</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Final Physics Fight</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS LT 28</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NTU SPMS LT1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5:00 PM</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Prize Presentation</p>
+<p>Final Physics Fight &amp; Prize Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NUS LT 28</p>
