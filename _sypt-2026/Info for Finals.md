@@ -188,24 +188,7 @@ seated by 2:30 PM</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Arrival of Guest-of-Honour</p>
-<p></p>
-<p>Welcome Address and GOH Speech</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NUS LT 28</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NTU SPMS LT1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3:00 PM</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Final Physics Fight &amp; Prize Presentation</p>
+<p>Final Fight Showcase &amp; Prize Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NUS LT 28</p>
