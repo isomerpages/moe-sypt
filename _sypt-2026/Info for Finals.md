@@ -250,7 +250,7 @@ in the Programme Booklet for live viewing of scores and ranking
 not the official results because we are live testing the web-app. Should
 you find mistakes or have suggestions for improvement, please send your
 comments to <a href="mailto:yptcomm@gmail.com" rel="noopener noreferrer nofollow" target="_blank"><u>yptcomm@gmail.com</u></a>.</p>
-<p>Click <a href="https://drive.google.com/file/d/18ALoEup300cg_PgDMSM6RaFbjSp6GSl_/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a> for
+<p>Click <a href="https://drive.google.com/file/d/1trTfWPlijOWpJ61Ngq9LWxEDCCllM6wE/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a> for
 Category B Programme Booklets.</p>
 <p>Click <a href="https://drive.google.com/file/d/1C1xSh3uhPp4KoPf47OmbrDimM0WXexrP/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a> for
 Category A Programme Booklets.</p>
