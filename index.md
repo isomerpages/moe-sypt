@@ -30,6 +30,12 @@ sections:
       description: Gold, Champion – RI Team 2;   Gold - RI Team 1;             Silver
         - NUSH Team 2, NUSH Team 1, HCI Team 2;   Bronze - HCI Team 1, RGS Team
         1, SNGS Team 1
+  - infobar:
+      title: SYPT 2026 Category B Award Winners
+      subtitle: Congratulations to
+      id: infobar
+      description: Gold, Champion – RI Team 1  Gold - RI Team 2  Silver - NUSH Team 1,
+        NUSH Team 2, HCI Team 1  Bronze - RGS Team 1, RVHS Team 1, HCI Team 2
   - announcements:
       title: Announcements
       id: announcements
@@ -64,10 +70,4 @@ sections:
             2.00 - 3.00 pm.
           link_text: ""
           link_url: ""
-  - infobar:
-      title: SYPT 2026 Category B Award Winners
-      subtitle: Congratulations to
-      id: infobar
-      description: Gold, Champion – RI Team 1  Gold - RI Team 2  Silver - NUSH Team 1,
-        NUSH Team 2, HCI Team 1  Bronze - RGS Team 1, RVHS Team 1, HCI Team 2
 ---
