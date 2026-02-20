@@ -64,4 +64,10 @@ sections:
             2.00 - 3.00 pm.
           link_text: ""
           link_url: ""
+  - infobar:
+      title: SYPT 2026 Category B Award Winners
+      subtitle: Congratulations to
+      id: infobar
+      description: Gold, Champion – RI Team 1  Gold - RI Team 2  Silver - NUSH Team 1,
+        NUSH Team 2, HCI Team 1  Bronze - RGS Team 1, RVHS Team 1, HCI Team 2
 ---
