@@ -47,6 +47,26 @@ sections:
       id: infobar
       description: RVHS Team 2, EJC Team 1
       subtitle: Commendation -
+  - infobar:
+      title: SYPT 2026 Category B Award Winners
+      subtitle: Congratulations to
+      id: infobar
+  - infobar:
+      subtitle: Gold Champion
+      id: infobar
+      description: RI Team 1
+  - infobar:
+      subtitle: Gold
+      id: infobar
+      description: RI Team 2
+  - infobar:
+      subtitle: Silver
+      id: infobar
+      description: NUSH Team 1, NUSH Team 2, HCI Team 1
+  - infobar:
+      subtitle: Bronze
+      id: infobar
+      description: RGS Team 1, RVHS Team 1, HCI Team 2
   - announcements:
       title: Announcements
       id: announcements
@@ -81,24 +101,4 @@ sections:
             2.00 - 3.00 pm.
           link_text: ""
           link_url: ""
-  - infobar:
-      title: SYPT 2026 Category B Award Winners
-      subtitle: Congratulations to
-      id: infobar
-  - infobar:
-      subtitle: Gold Champion
-      id: infobar
-      description: RI Team 1
-  - infobar:
-      subtitle: Gold
-      id: infobar
-      description: RI Team 2
-  - infobar:
-      subtitle: Silver
-      id: infobar
-      description: NUSH Team 1, NUSH Team 2, HCI Team 1
-  - infobar:
-      subtitle: Bronze
-      id: infobar
-      description: RGS Team 1, RVHS Team 1, HCI Team 2
 ---
