@@ -27,8 +27,6 @@ sections:
       title: SYPT 2026 Category A Award Winners
       subtitle: Congratulation to
       id: infobar
-      description: Gold Champion – RI Team 2; Gold - RI Team 1; Silver - NUSH Team 2,
-        NUSH Team 1, HCI Team 2; Bronze - HCI Team 1, RGS Team 1, SNGS Team 1;
   - infobar:
       subtitle: Gold Champion
       id: infobar
