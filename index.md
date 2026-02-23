@@ -23,6 +23,50 @@ sections:
       url: https://www.google.com/search?q=iypt+singapore+final+fight+youtube+video&sca_esv=510a591a39dbdeb7&sxsrf=AE3TifPz8n8oECVdZ8O9FGeTaQpryJI7Wg%3A1761095875000&ei=wjD4aPbhPLuz4-EPkOGSyQ0&oq=iypt+singapore+final+fight+yo&gs_lp=Egxnd3Mtd2l6LXNlcnAiHWl5cHQgc2luZ2Fwb3JlIGZpbmFsIGZpZ2h0IHlvKgIIATIFECEYoAEyBRAhGKABSNQtUIEDWLQZcAh4AZABAZgBogOgAcQYqgEJMC4yLjUuMi4yuAEByAEA-AEBmAISoAL2F8ICChAAGLADGNYEGEfCAgQQIRgVwgIHECEYoAEYCpgDAIgGAZAGCJIHCTguMi4zLjMuMqAHjSuyBwkwLjIuMy4zLjK4B5YXwgcIMC4xLjEyLjXIB3I&sclient=gws-wiz-serp#fpstate=ive&vld=cid:f3529a1b,vid:3qangzZkpq0,st:0
       alt: Image alt text
       image: /images/WhatsApp_Image_2025_07_06_at_8_42_31_PM.jpg
+  - infobar:
+      title: SYPT 2026 Category A Award Winners
+      subtitle: Congratulation to
+      id: infobar
+  - infobar:
+      subtitle: Gold Champion
+      id: infobar
+      description: RI Team 2
+  - infobar:
+      subtitle: Gold
+      id: infobar
+      description: RI Team 1
+  - infobar:
+      subtitle: Silver
+      id: infobar
+      description: NUSH Team 2, NUSH Team 1, HCI Team 2
+  - infobar:
+      subtitle: Bronze
+      id: infobar
+      description: HCI Team 1, RGS Team 1, SNGS Team 1
+  - infobar:
+      id: infobar
+      description: RVHS Team 2, EJC Team 1
+      subtitle: Commendation -
+  - infobar:
+      title: SYPT 2026 Category B Award Winners
+      subtitle: Congratulations to
+      id: infobar
+  - infobar:
+      subtitle: Gold Champion
+      id: infobar
+      description: RI Team 1
+  - infobar:
+      subtitle: Gold
+      id: infobar
+      description: RI Team 2
+  - infobar:
+      subtitle: Silver
+      id: infobar
+      description: NUSH Team 1, NUSH Team 2, HCI Team 1
+  - infobar:
+      subtitle: Bronze
+      id: infobar
+      description: RGS Team 1, RVHS Team 1, HCI Team 2
   - announcements:
       title: Announcements
       id: announcements

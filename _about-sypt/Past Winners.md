@@ -24,6 +24,30 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>2026</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gold, Champion – RI Team 2
+<br>Gold - RI Team 1
+<br>Silver - NUSH Team 2, NUSH Team 1, HCI Team 2
+<br>Bronze - HCI Team 1, RGS Team 1, SNGS Team 1 Commendation - RVHS Team
+2, EJC Team 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold, Champion – RI Team 1
+<br>Gold - RI Team 2
+<br>Silver - NUSH Team 1, NUSH Team 2, HCI Team 1
+<br>Bronze - RGS Team 1, RVHS Team 1, HCI Team 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2025</strong>
 </p>
 </td>
