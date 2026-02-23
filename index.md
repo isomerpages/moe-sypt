@@ -93,12 +93,10 @@ sections:
       subtitle: Gold Champion
       id: infobar
       description: RI Team 1
-      button: Button Text
   - infobar:
       subtitle: Gold
       id: infobar
       description: RI Team 2
-      button: Button Text
   - infobar:
       subtitle: Silver
       id: infobar
