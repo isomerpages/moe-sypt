@@ -101,4 +101,9 @@ sections:
       subtitle: Silver
       id: infobar
       description: NUSH Team 1, NUSH Team 2, HCI Team 1
+  - infobar:
+      subtitle: Bronze
+      id: infobar
+      description: RGS Team 1, RVHS Team 1, HCI Team 2
+      button: Button Text
 ---
