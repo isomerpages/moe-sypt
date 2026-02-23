@@ -69,4 +69,7 @@ sections:
             2.00 - 3.00 pm.
           link_text: ""
           link_url: ""
+  - infobar:
+      id: infobar
+      description: Commendation - RVHS Team 2, EJC Team 1
 ---
