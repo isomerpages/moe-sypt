@@ -73,4 +73,8 @@ sections:
             2.00 - 3.00 pm.
           link_text: ""
           link_url: ""
+  - infobar:
+      subtitle: Bronze
+      id: infobar
+      description: HCI Team 1, RGS Team 1, SNGS Team 1
 ---
