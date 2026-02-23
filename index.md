@@ -82,9 +82,7 @@ sections:
       id: infobar
       description: RI Team 1
   - infobar:
-      title: Infobar
-      subtitle: Add informational text
+      subtitle: Bronze
       id: infobar
-      description: Infobar description
-      button: Button Text
+      description: HCI Team 1, RGS Team 1, SNGS Team 1
 ---
