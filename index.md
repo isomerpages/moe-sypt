@@ -30,6 +30,22 @@ sections:
       description: Gold Champion – RI Team 2; Gold - RI Team 1; Silver - NUSH Team 2,
         NUSH Team 1, HCI Team 2; Bronze - HCI Team 1, RGS Team 1, SNGS Team 1;
   - infobar:
+      subtitle: Gold Champion
+      id: infobar
+      description: RI Team 2
+  - infobar:
+      subtitle: Gold
+      id: infobar
+      description: RI Team 1
+  - infobar:
+      subtitle: Silver
+      id: infobar
+      description: NUSH Team 2, NUSH Team 1, HCI Team 2
+  - infobar:
+      subtitle: Bronze
+      id: infobar
+      description: HCI Team 1, RGS Team 1, SNGS Team 1
+  - infobar:
       id: infobar
       description: RVHS Team 2, EJC Team 1
       subtitle: Commendation -
@@ -74,19 +90,8 @@ sections:
           link_text: ""
           link_url: ""
   - infobar:
-      subtitle: Silver
-      id: infobar
-      description: NUSH Team 2, NUSH Team 1, HCI Team 2
-  - infobar:
-      subtitle: Gold
-      id: infobar
-      description: RI Team 1
-  - infobar:
-      subtitle: Bronze
-      id: infobar
-      description: HCI Team 1, RGS Team 1, SNGS Team 1
-  - infobar:
       subtitle: Gold Champion
       id: infobar
-      description: RI Team 2
+      description: RI Team 1
+      button: Button Text
 ---
