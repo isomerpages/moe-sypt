@@ -78,6 +78,10 @@ sections:
       id: infobar
       description: NUSH Team 2, NUSH Team 1, HCI Team 2
   - infobar:
+      subtitle: Gold
+      id: infobar
+      description: RI Team 1
+  - infobar:
       title: Infobar
       subtitle: Add informational text
       id: infobar
