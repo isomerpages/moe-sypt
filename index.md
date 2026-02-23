@@ -85,4 +85,8 @@ sections:
       subtitle: Bronze
       id: infobar
       description: HCI Team 1, RGS Team 1, SNGS Team 1
+  - infobar:
+      subtitle: Gold Champion
+      id: infobar
+      description: RI Team 2
 ---
