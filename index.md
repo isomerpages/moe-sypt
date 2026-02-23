@@ -105,5 +105,4 @@ sections:
       subtitle: Bronze
       id: infobar
       description: RGS Team 1, RVHS Team 1, HCI Team 2
-      button: Button Text
 ---
